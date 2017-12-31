@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/GeneralMetaverseARScene.unity
     guid: acddb77a9147a4559bcc5bb8a0820992
+  - enabled: 1
+    path: Assets/_Scenes/PenroseTestScene.unity
+    guid: e7993df63d712456ebf68fe1121592a9

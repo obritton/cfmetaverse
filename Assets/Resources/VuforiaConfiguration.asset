@@ -44,11 +44,9 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
-    - LivingPopups
-    - MetaVerseGroup1
+    - testtargets
     dataSetsToActivate:
-    - LivingPopups
-    - MetaVerseGroup1
+    - testtargets
   videoBackground:
     clippingMode: 0
     numDivisions: 2
