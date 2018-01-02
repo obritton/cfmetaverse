@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: bcc83e08bafaf6b4dbb5c41de942a6b4
+timeCreated: 1514931412
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cornerL
+    100002: cornerL 1
+    100004: cornerR
+    100006: cornerR 1
+    100008: eyebrowL
+    100010: eyebrowL 1
+    100012: eyebrowR
+    100014: eyebrowR 1
+    100016: eyeL
+    100018: eyeLids
+    100020: eyeR
+    100022: ground
+    100024: guyCTRL_Head
+    100026: guyCTRL_Hips
+    100028: guyCTRL_LeafLeftForeArmRoll1
+    100030: guyCTRL_LeafRightForeArmRoll1
+    100032: guyCTRL_LeftArm
+    100034: guyCTRL_LeftFoot
+    100036: guyCTRL_LeftForeArm
+    100038: guyCTRL_LeftHand
+    100040: guyCTRL_LeftHandIndex1
+    100042: guyCTRL_LeftHandIndex2
+    100044: guyCTRL_LeftHandIndex3
+    100046: guyCTRL_LeftHandIndex4
+    100048: guyCTRL_LeftHandMiddle1
+    100050: guyCTRL_LeftHandMiddle2
+    100052: guyCTRL_LeftHandMiddle3
+    100054: guyCTRL_LeftHandMiddle4
+    100056: guyCTRL_LeftHandPinky1
+    100058: guyCTRL_LeftHandPinky2
+    100060: guyCTRL_LeftHandPinky3
+    100062: guyCTRL_LeftHandPinky4
+    100064: guyCTRL_LeftHandRing1
+    100066: guyCTRL_LeftHandRing2
+    100068: guyCTRL_LeftHandRing3
+    100070: guyCTRL_LeftHandRing4
+    100072: guyCTRL_LeftHandThumb1
+    100074: guyCTRL_LeftHandThumb2
+    100076: guyCTRL_LeftHandThumb3
+    100078: guyCTRL_LeftHandThumb4
+    100080: guyCTRL_LeftLeg
+    100082: guyCTRL_LeftShoulder
+    100084: guyCTRL_LeftToeBase
+    100086: guyCTRL_LeftUpLeg
+    100088: guyCTRL_Neck
+    100090: guyCTRL_Reference
+    100092: guyCTRL_RightArm
+    100094: guyCTRL_RightFoot
+    100096: guyCTRL_RightForeArm
+    100098: guyCTRL_RightHand
+    100100: guyCTRL_RightHandIndex1
+    100102: guyCTRL_RightHandIndex2
+    100104: guyCTRL_RightHandIndex3
+    100106: guyCTRL_RightHandIndex4
+    100108: guyCTRL_RightHandMiddle1
+    100110: guyCTRL_RightHandMiddle2
+    100112: guyCTRL_RightHandMiddle3
+    100114: guyCTRL_RightHandMiddle4
+    100116: guyCTRL_RightHandPinky1
+    100118: guyCTRL_RightHandPinky2
+    100120: guyCTRL_RightHandPinky3
+    100122: guyCTRL_RightHandPinky4
+    100124: guyCTRL_RightHandRing1
+    100126: guyCTRL_RightHandRing2
+    100128: guyCTRL_RightHandRing3
+    100130: guyCTRL_RightHandRing4
+    100132: guyCTRL_RightHandThumb1
+    100134: guyCTRL_RightHandThumb2
+    100136: guyCTRL_RightHandThumb3
+    100138: guyCTRL_RightHandThumb4
+    100140: guyCTRL_RightLeg
+    100142: guyCTRL_RightShoulder
+    100144: guyCTRL_RightToeBase
+    100146: guyCTRL_RightUpLeg
+    100148: guyCTRL_Spine
+    100150: guyCTRL_Spine1
+    100152: guyCTRL_Spine2
+    100154: hairBase
+    100156: hairEnd
+    100158: jaw
+    100160: jawEnd
+    100162: lowerL
+    100164: lowerL 1
+    100166: lowerMid
+    100168: lowerMid 1
+    100170: lowerR
+    100172: lowerR 1
+    100174: upperL
+    100176: upperL 1
+    100178: upperMid
+    100180: upperMid 1
+    100182: upperR
+    100184: upperR 1
+    100186: //RootNode
+    400000: cornerL
+    400002: cornerL 1
+    400004: cornerR
+    400006: cornerR 1
+    400008: eyebrowL
+    400010: eyebrowL 1
+    400012: eyebrowR
+    400014: eyebrowR 1
+    400016: eyeL
+    400018: eyeLids
+    400020: eyeR
+    400022: ground
+    400024: guyCTRL_Head
+    400026: guyCTRL_Hips
+    400028: guyCTRL_LeafLeftForeArmRoll1
+    400030: guyCTRL_LeafRightForeArmRoll1
+    400032: guyCTRL_LeftArm
+    400034: guyCTRL_LeftFoot
+    400036: guyCTRL_LeftForeArm
+    400038: guyCTRL_LeftHand
+    400040: guyCTRL_LeftHandIndex1
+    400042: guyCTRL_LeftHandIndex2
+    400044: guyCTRL_LeftHandIndex3
+    400046: guyCTRL_LeftHandIndex4
+    400048: guyCTRL_LeftHandMiddle1
+    400050: guyCTRL_LeftHandMiddle2
+    400052: guyCTRL_LeftHandMiddle3
+    400054: guyCTRL_LeftHandMiddle4
+    400056: guyCTRL_LeftHandPinky1
+    400058: guyCTRL_LeftHandPinky2
+    400060: guyCTRL_LeftHandPinky3
+    400062: guyCTRL_LeftHandPinky4
+    400064: guyCTRL_LeftHandRing1
+    400066: guyCTRL_LeftHandRing2
+    400068: guyCTRL_LeftHandRing3
+    400070: guyCTRL_LeftHandRing4
+    400072: guyCTRL_LeftHandThumb1
+    400074: guyCTRL_LeftHandThumb2
+    400076: guyCTRL_LeftHandThumb3
+    400078: guyCTRL_LeftHandThumb4
+    400080: guyCTRL_LeftLeg
+    400082: guyCTRL_LeftShoulder
+    400084: guyCTRL_LeftToeBase
+    400086: guyCTRL_LeftUpLeg
+    400088: guyCTRL_Neck
+    400090: guyCTRL_Reference
+    400092: guyCTRL_RightArm
+    400094: guyCTRL_RightFoot
+    400096: guyCTRL_RightForeArm
+    400098: guyCTRL_RightHand
+    400100: guyCTRL_RightHandIndex1
+    400102: guyCTRL_RightHandIndex2
+    400104: guyCTRL_RightHandIndex3
+    400106: guyCTRL_RightHandIndex4
+    400108: guyCTRL_RightHandMiddle1
+    400110: guyCTRL_RightHandMiddle2
+    400112: guyCTRL_RightHandMiddle3
+    400114: guyCTRL_RightHandMiddle4
+    400116: guyCTRL_RightHandPinky1
+    400118: guyCTRL_RightHandPinky2
+    400120: guyCTRL_RightHandPinky3
+    400122: guyCTRL_RightHandPinky4
+    400124: guyCTRL_RightHandRing1
+    400126: guyCTRL_RightHandRing2
+    400128: guyCTRL_RightHandRing3
+    400130: guyCTRL_RightHandRing4
+    400132: guyCTRL_RightHandThumb1
+    400134: guyCTRL_RightHandThumb2
+    400136: guyCTRL_RightHandThumb3
+    400138: guyCTRL_RightHandThumb4
+    400140: guyCTRL_RightLeg
+    400142: guyCTRL_RightShoulder
+    400144: guyCTRL_RightToeBase
+    400146: guyCTRL_RightUpLeg
+    400148: guyCTRL_Spine
+    400150: guyCTRL_Spine1
+    400152: guyCTRL_Spine2
+    400154: hairBase
+    400156: hairEnd
+    400158: jaw
+    400160: jawEnd
+    400162: lowerL
+    400164: lowerL 1
+    400166: lowerMid
+    400168: lowerMid 1
+    400170: lowerR
+    400172: lowerR 1
+    400174: upperL
+    400176: upperL 1
+    400178: upperMid
+    400180: upperMid 1
+    400182: upperR
+    400184: upperR 1
+    400186: //RootNode
+    2100000: phong1
+    2300000: ground
+    3300000: ground
+    4300000: ground
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
