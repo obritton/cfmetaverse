@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 38f7c2b12182e8f409406920ff74910b
+timeCreated: 1514409298
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: headset
+    100004: headsetMain
+    100006: headsetMain1
+    100008: headsetMain2
+    100010: headsetMain3
+    100012: headsetMain4
+    100014: headsetMain5
+    100016: headsetMain6
+    100018: headsetMain7
+    400000: //RootNode
+    400002: headset
+    400004: headsetMain
+    400006: headsetMain1
+    400008: headsetMain2
+    400010: headsetMain3
+    400012: headsetMain4
+    400014: headsetMain5
+    400016: headsetMain6
+    400018: headsetMain7
+    4300000: headset
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: headset
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virtual_Reality_Headset_Drone_Parrot_Disco_glass1
+    second: {fileID: 2100000, guid: 23f1d390cbc28ea498fd20ab5c2c4b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virtual_Reality_Headset_virtual_Reality_Headset_black_glass2
+    second: {fileID: 2100000, guid: 8fd4910efeecd90409026ffc161c29a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virtual_Reality_Headset_virtual_Reality_Headset_plastic_black2
+    second: {fileID: 2100000, guid: e76dbc34ec3aa9643b1dbddf3207965b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virtual_Reality_Headset_virtual_Reality_Headset_plastic_white2
+    second: {fileID: 2100000, guid: 2c31f70be57a0394792f967c8e72d005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virtual_Reality_Headset_virtual_Reality_Headset_screen2
+    second: {fileID: 2100000, guid: df375dcf4f5bb524a9040a36f5032895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Virtual_Reality_Headset_virtual_Reality_Headset_strap2
+    second: {fileID: 2100000, guid: 17cd539070c67cb4eadade3b32bcf9e3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

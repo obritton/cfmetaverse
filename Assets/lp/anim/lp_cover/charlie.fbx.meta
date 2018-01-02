@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 0ec8dbc2dced97546b80b736092ed10f
+timeCreated: 1514417849
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Character1_LeafLeftForeArmRoll
+    100002: Character1_LeafRightForeArmRoll
+    100004: //RootNode
+    100006: finkCTRL_cornerL
+    100008: finkCTRL_cornerL 1
+    100010: finkCTRL_cornerR
+    100012: finkCTRL_cornerR 1
+    100014: finkCTRL_eyebrowL
+    100016: finkCTRL_eyebrowL 1
+    100018: finkCTRL_eyebrowR
+    100020: finkCTRL_eyebrowR 1
+    100022: finkCTRL_eyeL
+    100024: finkCTRL_eyeLids
+    100026: finkCTRL_eyeR
+    100028: finkCTRL_Head
+    100030: finkCTRL_Hips
+    100032: finkCTRL_jaw
+    100034: finkCTRL_jawEnd
+    100036: finkCTRL_LeftArm
+    100038: finkCTRL_LeftFoot
+    100040: finkCTRL_LeftForeArm
+    100042: finkCTRL_LeftHand
+    100044: finkCTRL_LeftHandIndex1
+    100046: finkCTRL_LeftHandIndex2
+    100048: finkCTRL_LeftHandIndex3
+    100050: finkCTRL_LeftHandIndex4
+    100052: finkCTRL_LeftHandMiddle1
+    100054: finkCTRL_LeftHandMiddle2
+    100056: finkCTRL_LeftHandMiddle3
+    100058: finkCTRL_LeftHandMiddle4
+    100060: finkCTRL_LeftHandPinky1
+    100062: finkCTRL_LeftHandPinky2
+    100064: finkCTRL_LeftHandPinky3
+    100066: finkCTRL_LeftHandPinky4
+    100068: finkCTRL_LeftHandRing1
+    100070: finkCTRL_LeftHandRing2
+    100072: finkCTRL_LeftHandRing3
+    100074: finkCTRL_LeftHandRing4
+    100076: finkCTRL_LeftHandThumb1
+    100078: finkCTRL_LeftHandThumb2
+    100080: finkCTRL_LeftHandThumb3
+    100082: finkCTRL_LeftHandThumb4
+    100084: finkCTRL_LeftLeg
+    100086: finkCTRL_LeftShoulder
+    100088: finkCTRL_LeftToeBase
+    100090: finkCTRL_LeftUpLeg
+    100092: finkCTRL_lowerL
+    100094: finkCTRL_lowerL 1
+    100096: finkCTRL_lowerMid
+    100098: finkCTRL_lowerMid 1
+    100100: finkCTRL_lowerR
+    100102: finkCTRL_lowerR 1
+    100104: finkCTRL_Neck
+    100106: finkCTRL_Reference
+    100108: finkCTRL_RightArm
+    100110: finkCTRL_RightFoot
+    100112: finkCTRL_RightForeArm
+    100114: finkCTRL_RightHand
+    100116: finkCTRL_RightHandIndex1
+    100118: finkCTRL_RightHandIndex2
+    100120: finkCTRL_RightHandIndex3
+    100122: finkCTRL_RightHandIndex4
+    100124: finkCTRL_RightHandMiddle1
+    100126: finkCTRL_RightHandMiddle2
+    100128: finkCTRL_RightHandMiddle3
+    100130: finkCTRL_RightHandMiddle4
+    100132: finkCTRL_RightHandPinky1
+    100134: finkCTRL_RightHandPinky2
+    100136: finkCTRL_RightHandPinky3
+    100138: finkCTRL_RightHandPinky4
+    100140: finkCTRL_RightHandRing1
+    100142: finkCTRL_RightHandRing2
+    100144: finkCTRL_RightHandRing3
+    100146: finkCTRL_RightHandRing4
+    100148: finkCTRL_RightHandThumb1
+    100150: finkCTRL_RightHandThumb2
+    100152: finkCTRL_RightHandThumb3
+    100154: finkCTRL_RightHandThumb4
+    100156: finkCTRL_RightLeg
+    100158: finkCTRL_RightShoulder
+    100160: finkCTRL_RightToeBase
+    100162: finkCTRL_RightUpLeg
+    100164: finkCTRL_Spine
+    100166: finkCTRL_Spine1
+    100168: finkCTRL_Spine2
+    100170: finkCTRL_upperL
+    100172: finkCTRL_upperL 1
+    100174: finkCTRL_upperMid
+    100176: finkCTRL_upperMid 1
+    100178: finkCTRL_upperR
+    100180: finkCTRL_upperR 1
+    100182: pPlane1
+    400000: Character1_LeafLeftForeArmRoll
+    400002: Character1_LeafRightForeArmRoll
+    400004: //RootNode
+    400006: finkCTRL_cornerL
+    400008: finkCTRL_cornerL 1
+    400010: finkCTRL_cornerR
+    400012: finkCTRL_cornerR 1
+    400014: finkCTRL_eyebrowL
+    400016: finkCTRL_eyebrowL 1
+    400018: finkCTRL_eyebrowR
+    400020: finkCTRL_eyebrowR 1
+    400022: finkCTRL_eyeL
+    400024: finkCTRL_eyeLids
+    400026: finkCTRL_eyeR
+    400028: finkCTRL_Head
+    400030: finkCTRL_Hips
+    400032: finkCTRL_jaw
+    400034: finkCTRL_jawEnd
+    400036: finkCTRL_LeftArm
+    400038: finkCTRL_LeftFoot
+    400040: finkCTRL_LeftForeArm
+    400042: finkCTRL_LeftHand
+    400044: finkCTRL_LeftHandIndex1
+    400046: finkCTRL_LeftHandIndex2
+    400048: finkCTRL_LeftHandIndex3
+    400050: finkCTRL_LeftHandIndex4
+    400052: finkCTRL_LeftHandMiddle1
+    400054: finkCTRL_LeftHandMiddle2
+    400056: finkCTRL_LeftHandMiddle3
+    400058: finkCTRL_LeftHandMiddle4
+    400060: finkCTRL_LeftHandPinky1
+    400062: finkCTRL_LeftHandPinky2
+    400064: finkCTRL_LeftHandPinky3
+    400066: finkCTRL_LeftHandPinky4
+    400068: finkCTRL_LeftHandRing1
+    400070: finkCTRL_LeftHandRing2
+    400072: finkCTRL_LeftHandRing3
+    400074: finkCTRL_LeftHandRing4
+    400076: finkCTRL_LeftHandThumb1
+    400078: finkCTRL_LeftHandThumb2
+    400080: finkCTRL_LeftHandThumb3
+    400082: finkCTRL_LeftHandThumb4
+    400084: finkCTRL_LeftLeg
+    400086: finkCTRL_LeftShoulder
+    400088: finkCTRL_LeftToeBase
+    400090: finkCTRL_LeftUpLeg
+    400092: finkCTRL_lowerL
+    400094: finkCTRL_lowerL 1
+    400096: finkCTRL_lowerMid
+    400098: finkCTRL_lowerMid 1
+    400100: finkCTRL_lowerR
+    400102: finkCTRL_lowerR 1
+    400104: finkCTRL_Neck
+    400106: finkCTRL_Reference
+    400108: finkCTRL_RightArm
+    400110: finkCTRL_RightFoot
+    400112: finkCTRL_RightForeArm
+    400114: finkCTRL_RightHand
+    400116: finkCTRL_RightHandIndex1
+    400118: finkCTRL_RightHandIndex2
+    400120: finkCTRL_RightHandIndex3
+    400122: finkCTRL_RightHandIndex4
+    400124: finkCTRL_RightHandMiddle1
+    400126: finkCTRL_RightHandMiddle2
+    400128: finkCTRL_RightHandMiddle3
+    400130: finkCTRL_RightHandMiddle4
+    400132: finkCTRL_RightHandPinky1
+    400134: finkCTRL_RightHandPinky2
+    400136: finkCTRL_RightHandPinky3
+    400138: finkCTRL_RightHandPinky4
+    400140: finkCTRL_RightHandRing1
+    400142: finkCTRL_RightHandRing2
+    400144: finkCTRL_RightHandRing3
+    400146: finkCTRL_RightHandRing4
+    400148: finkCTRL_RightHandThumb1
+    400150: finkCTRL_RightHandThumb2
+    400152: finkCTRL_RightHandThumb3
+    400154: finkCTRL_RightHandThumb4
+    400156: finkCTRL_RightLeg
+    400158: finkCTRL_RightShoulder
+    400160: finkCTRL_RightToeBase
+    400162: finkCTRL_RightUpLeg
+    400164: finkCTRL_Spine
+    400166: finkCTRL_Spine1
+    400168: finkCTRL_Spine2
+    400170: finkCTRL_upperL
+    400172: finkCTRL_upperL 1
+    400174: finkCTRL_upperMid
+    400176: finkCTRL_upperMid 1
+    400178: finkCTRL_upperR
+    400180: finkCTRL_upperR 1
+    400182: pPlane1
+    2300000: pPlane1
+    3300000: pPlane1
+    4300000: pPlane1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: aa3bb99da9cafbf46a449427ad36eb5c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: d8c8c143413499048834efcdf988b7d7
+timeCreated: 1514424125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cornerL
+    100002: cornerL 1
+    100004: cornerR
+    100006: cornerR 1
+    100008: eyebrowL
+    100010: eyebrowL 1
+    100012: eyebrowR
+    100014: eyebrowR 1
+    100016: eyeL
+    100018: eyeLids
+    100020: eyeR
+    100022: guyCTRL_Head
+    100024: guyCTRL_Hips
+    100026: guyCTRL_LeafLeftForeArmRoll1
+    100028: guyCTRL_LeafRightForeArmRoll1
+    100030: guyCTRL_LeftArm
+    100032: guyCTRL_LeftFoot
+    100034: guyCTRL_LeftForeArm
+    100036: guyCTRL_LeftHand
+    100038: guyCTRL_LeftHandIndex1
+    100040: guyCTRL_LeftHandIndex2
+    100042: guyCTRL_LeftHandIndex3
+    100044: guyCTRL_LeftHandIndex4
+    100046: guyCTRL_LeftHandMiddle1
+    100048: guyCTRL_LeftHandMiddle2
+    100050: guyCTRL_LeftHandMiddle3
+    100052: guyCTRL_LeftHandMiddle4
+    100054: guyCTRL_LeftHandPinky1
+    100056: guyCTRL_LeftHandPinky2
+    100058: guyCTRL_LeftHandPinky3
+    100060: guyCTRL_LeftHandPinky4
+    100062: guyCTRL_LeftHandRing1
+    100064: guyCTRL_LeftHandRing2
+    100066: guyCTRL_LeftHandRing3
+    100068: guyCTRL_LeftHandRing4
+    100070: guyCTRL_LeftHandThumb1
+    100072: guyCTRL_LeftHandThumb2
+    100074: guyCTRL_LeftHandThumb3
+    100076: guyCTRL_LeftHandThumb4
+    100078: guyCTRL_LeftLeg
+    100080: guyCTRL_LeftShoulder
+    100082: guyCTRL_LeftToeBase
+    100084: guyCTRL_LeftUpLeg
+    100086: guyCTRL_Neck
+    100088: guyCTRL_Reference
+    100090: guyCTRL_RightArm
+    100092: guyCTRL_RightFoot
+    100094: guyCTRL_RightForeArm
+    100096: guyCTRL_RightHand
+    100098: guyCTRL_RightHandIndex1
+    100100: guyCTRL_RightHandIndex2
+    100102: guyCTRL_RightHandIndex3
+    100104: guyCTRL_RightHandIndex4
+    100106: guyCTRL_RightHandMiddle1
+    100108: guyCTRL_RightHandMiddle2
+    100110: guyCTRL_RightHandMiddle3
+    100112: guyCTRL_RightHandMiddle4
+    100114: guyCTRL_RightHandPinky1
+    100116: guyCTRL_RightHandPinky2
+    100118: guyCTRL_RightHandPinky3
+    100120: guyCTRL_RightHandPinky4
+    100122: guyCTRL_RightHandRing1
+    100124: guyCTRL_RightHandRing2
+    100126: guyCTRL_RightHandRing3
+    100128: guyCTRL_RightHandRing4
+    100130: guyCTRL_RightHandThumb1
+    100132: guyCTRL_RightHandThumb2
+    100134: guyCTRL_RightHandThumb3
+    100136: guyCTRL_RightHandThumb4
+    100138: guyCTRL_RightLeg
+    100140: guyCTRL_RightShoulder
+    100142: guyCTRL_RightToeBase
+    100144: guyCTRL_RightUpLeg
+    100146: guyCTRL_Spine
+    100148: guyCTRL_Spine1
+    100150: guyCTRL_Spine2
+    100152: hairBase
+    100154: hairEnd
+    100156: jaw
+    100158: jawEnd
+    100160: lowerL
+    100162: lowerL 1
+    100164: lowerMid
+    100166: lowerMid 1
+    100168: lowerR
+    100170: lowerR 1
+    100172: pPlane1
+    100174: upperL
+    100176: upperL 1
+    100178: upperMid
+    100180: upperMid 1
+    100182: upperR
+    100184: upperR 1
+    100186: //RootNode
+    400000: cornerL
+    400002: cornerL 1
+    400004: cornerR
+    400006: cornerR 1
+    400008: eyebrowL
+    400010: eyebrowL 1
+    400012: eyebrowR
+    400014: eyebrowR 1
+    400016: eyeL
+    400018: eyeLids
+    400020: eyeR
+    400022: guyCTRL_Head
+    400024: guyCTRL_Hips
+    400026: guyCTRL_LeafLeftForeArmRoll1
+    400028: guyCTRL_LeafRightForeArmRoll1
+    400030: guyCTRL_LeftArm
+    400032: guyCTRL_LeftFoot
+    400034: guyCTRL_LeftForeArm
+    400036: guyCTRL_LeftHand
+    400038: guyCTRL_LeftHandIndex1
+    400040: guyCTRL_LeftHandIndex2
+    400042: guyCTRL_LeftHandIndex3
+    400044: guyCTRL_LeftHandIndex4
+    400046: guyCTRL_LeftHandMiddle1
+    400048: guyCTRL_LeftHandMiddle2
+    400050: guyCTRL_LeftHandMiddle3
+    400052: guyCTRL_LeftHandMiddle4
+    400054: guyCTRL_LeftHandPinky1
+    400056: guyCTRL_LeftHandPinky2
+    400058: guyCTRL_LeftHandPinky3
+    400060: guyCTRL_LeftHandPinky4
+    400062: guyCTRL_LeftHandRing1
+    400064: guyCTRL_LeftHandRing2
+    400066: guyCTRL_LeftHandRing3
+    400068: guyCTRL_LeftHandRing4
+    400070: guyCTRL_LeftHandThumb1
+    400072: guyCTRL_LeftHandThumb2
+    400074: guyCTRL_LeftHandThumb3
+    400076: guyCTRL_LeftHandThumb4
+    400078: guyCTRL_LeftLeg
+    400080: guyCTRL_LeftShoulder
+    400082: guyCTRL_LeftToeBase
+    400084: guyCTRL_LeftUpLeg
+    400086: guyCTRL_Neck
+    400088: guyCTRL_Reference
+    400090: guyCTRL_RightArm
+    400092: guyCTRL_RightFoot
+    400094: guyCTRL_RightForeArm
+    400096: guyCTRL_RightHand
+    400098: guyCTRL_RightHandIndex1
+    400100: guyCTRL_RightHandIndex2
+    400102: guyCTRL_RightHandIndex3
+    400104: guyCTRL_RightHandIndex4
+    400106: guyCTRL_RightHandMiddle1
+    400108: guyCTRL_RightHandMiddle2
+    400110: guyCTRL_RightHandMiddle3
+    400112: guyCTRL_RightHandMiddle4
+    400114: guyCTRL_RightHandPinky1
+    400116: guyCTRL_RightHandPinky2
+    400118: guyCTRL_RightHandPinky3
+    400120: guyCTRL_RightHandPinky4
+    400122: guyCTRL_RightHandRing1
+    400124: guyCTRL_RightHandRing2
+    400126: guyCTRL_RightHandRing3
+    400128: guyCTRL_RightHandRing4
+    400130: guyCTRL_RightHandThumb1
+    400132: guyCTRL_RightHandThumb2
+    400134: guyCTRL_RightHandThumb3
+    400136: guyCTRL_RightHandThumb4
+    400138: guyCTRL_RightLeg
+    400140: guyCTRL_RightShoulder
+    400142: guyCTRL_RightToeBase
+    400144: guyCTRL_RightUpLeg
+    400146: guyCTRL_Spine
+    400148: guyCTRL_Spine1
+    400150: guyCTRL_Spine2
+    400152: hairBase
+    400154: hairEnd
+    400156: jaw
+    400158: jawEnd
+    400160: lowerL
+    400162: lowerL 1
+    400164: lowerMid
+    400166: lowerMid 1
+    400168: lowerR
+    400170: lowerR 1
+    400172: pPlane1
+    400174: upperL
+    400176: upperL 1
+    400178: upperMid
+    400180: upperMid 1
+    400182: upperR
+    400184: upperR 1
+    400186: //RootNode
+    2300000: pPlane1
+    3300000: pPlane1
+    4300000: pPlane1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 57d825def981b554fa8c5657464d9eed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
