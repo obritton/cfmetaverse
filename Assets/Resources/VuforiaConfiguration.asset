@@ -44,9 +44,9 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
-    - testtargets
+    - MetaVerseGroup1
     dataSetsToActivate:
-    - testtargets
+    - MetaVerseGroup1
   videoBackground:
     clippingMode: 0
     numDivisions: 2
