@@ -97,6 +97,96 @@ ModelImporter:
     100178: finkCTRL_upperR
     100180: finkCTRL_upperR 1
     100182: pPlane1
+    100184: fink_MODEL_v44:Character1_LeafLeftForeArmRoll
+    100186: fink_MODEL_v44:Character1_LeafRightForeArmRoll
+    100188: fink_MODEL_v44:finkCTRL_cornerL
+    100190: fink_MODEL_v44:finkCTRL_cornerL 1
+    100192: fink_MODEL_v44:finkCTRL_cornerR
+    100194: fink_MODEL_v44:finkCTRL_cornerR 1
+    100196: fink_MODEL_v44:finkCTRL_eyebrowL
+    100198: fink_MODEL_v44:finkCTRL_eyebrowL 1
+    100200: fink_MODEL_v44:finkCTRL_eyebrowR
+    100202: fink_MODEL_v44:finkCTRL_eyebrowR 1
+    100204: fink_MODEL_v44:finkCTRL_eyeL
+    100206: fink_MODEL_v44:finkCTRL_eyeLids
+    100208: fink_MODEL_v44:finkCTRL_eyeR
+    100210: fink_MODEL_v44:finkCTRL_Head
+    100212: fink_MODEL_v44:finkCTRL_Hips
+    100214: fink_MODEL_v44:finkCTRL_jaw
+    100216: fink_MODEL_v44:finkCTRL_jawEnd
+    100218: fink_MODEL_v44:finkCTRL_LeftArm
+    100220: fink_MODEL_v44:finkCTRL_LeftFoot
+    100222: fink_MODEL_v44:finkCTRL_LeftForeArm
+    100224: fink_MODEL_v44:finkCTRL_LeftHand
+    100226: fink_MODEL_v44:finkCTRL_LeftHandIndex1
+    100228: fink_MODEL_v44:finkCTRL_LeftHandIndex2
+    100230: fink_MODEL_v44:finkCTRL_LeftHandIndex3
+    100232: fink_MODEL_v44:finkCTRL_LeftHandIndex4
+    100234: fink_MODEL_v44:finkCTRL_LeftHandMiddle1
+    100236: fink_MODEL_v44:finkCTRL_LeftHandMiddle2
+    100238: fink_MODEL_v44:finkCTRL_LeftHandMiddle3
+    100240: fink_MODEL_v44:finkCTRL_LeftHandMiddle4
+    100242: fink_MODEL_v44:finkCTRL_LeftHandPinky1
+    100244: fink_MODEL_v44:finkCTRL_LeftHandPinky2
+    100246: fink_MODEL_v44:finkCTRL_LeftHandPinky3
+    100248: fink_MODEL_v44:finkCTRL_LeftHandPinky4
+    100250: fink_MODEL_v44:finkCTRL_LeftHandRing1
+    100252: fink_MODEL_v44:finkCTRL_LeftHandRing2
+    100254: fink_MODEL_v44:finkCTRL_LeftHandRing3
+    100256: fink_MODEL_v44:finkCTRL_LeftHandRing4
+    100258: fink_MODEL_v44:finkCTRL_LeftHandThumb1
+    100260: fink_MODEL_v44:finkCTRL_LeftHandThumb2
+    100262: fink_MODEL_v44:finkCTRL_LeftHandThumb3
+    100264: fink_MODEL_v44:finkCTRL_LeftHandThumb4
+    100266: fink_MODEL_v44:finkCTRL_LeftLeg
+    100268: fink_MODEL_v44:finkCTRL_LeftShoulder
+    100270: fink_MODEL_v44:finkCTRL_LeftToeBase
+    100272: fink_MODEL_v44:finkCTRL_LeftUpLeg
+    100274: fink_MODEL_v44:finkCTRL_lowerL
+    100276: fink_MODEL_v44:finkCTRL_lowerL 1
+    100278: fink_MODEL_v44:finkCTRL_lowerMid
+    100280: fink_MODEL_v44:finkCTRL_lowerMid 1
+    100282: fink_MODEL_v44:finkCTRL_lowerR
+    100284: fink_MODEL_v44:finkCTRL_lowerR 1
+    100286: fink_MODEL_v44:finkCTRL_Neck
+    100288: fink_MODEL_v44:finkCTRL_Reference
+    100290: fink_MODEL_v44:finkCTRL_RightArm
+    100292: fink_MODEL_v44:finkCTRL_RightFoot
+    100294: fink_MODEL_v44:finkCTRL_RightForeArm
+    100296: fink_MODEL_v44:finkCTRL_RightHand
+    100298: fink_MODEL_v44:finkCTRL_RightHandIndex1
+    100300: fink_MODEL_v44:finkCTRL_RightHandIndex2
+    100302: fink_MODEL_v44:finkCTRL_RightHandIndex3
+    100304: fink_MODEL_v44:finkCTRL_RightHandIndex4
+    100306: fink_MODEL_v44:finkCTRL_RightHandMiddle1
+    100308: fink_MODEL_v44:finkCTRL_RightHandMiddle2
+    100310: fink_MODEL_v44:finkCTRL_RightHandMiddle3
+    100312: fink_MODEL_v44:finkCTRL_RightHandMiddle4
+    100314: fink_MODEL_v44:finkCTRL_RightHandPinky1
+    100316: fink_MODEL_v44:finkCTRL_RightHandPinky2
+    100318: fink_MODEL_v44:finkCTRL_RightHandPinky3
+    100320: fink_MODEL_v44:finkCTRL_RightHandPinky4
+    100322: fink_MODEL_v44:finkCTRL_RightHandRing1
+    100324: fink_MODEL_v44:finkCTRL_RightHandRing2
+    100326: fink_MODEL_v44:finkCTRL_RightHandRing3
+    100328: fink_MODEL_v44:finkCTRL_RightHandRing4
+    100330: fink_MODEL_v44:finkCTRL_RightHandThumb1
+    100332: fink_MODEL_v44:finkCTRL_RightHandThumb2
+    100334: fink_MODEL_v44:finkCTRL_RightHandThumb3
+    100336: fink_MODEL_v44:finkCTRL_RightHandThumb4
+    100338: fink_MODEL_v44:finkCTRL_RightLeg
+    100340: fink_MODEL_v44:finkCTRL_RightShoulder
+    100342: fink_MODEL_v44:finkCTRL_RightToeBase
+    100344: fink_MODEL_v44:finkCTRL_RightUpLeg
+    100346: fink_MODEL_v44:finkCTRL_Spine
+    100348: fink_MODEL_v44:finkCTRL_Spine1
+    100350: fink_MODEL_v44:finkCTRL_Spine2
+    100352: fink_MODEL_v44:finkCTRL_upperL
+    100354: fink_MODEL_v44:finkCTRL_upperL 1
+    100356: fink_MODEL_v44:finkCTRL_upperMid
+    100358: fink_MODEL_v44:finkCTRL_upperMid 1
+    100360: fink_MODEL_v44:finkCTRL_upperR
+    100362: fink_MODEL_v44:finkCTRL_upperR 1
     400000: Character1_LeafLeftForeArmRoll
     400002: Character1_LeafRightForeArmRoll
     400004: //RootNode
@@ -189,10 +279,101 @@ ModelImporter:
     400178: finkCTRL_upperR
     400180: finkCTRL_upperR 1
     400182: pPlane1
+    400184: fink_MODEL_v44:Character1_LeafLeftForeArmRoll
+    400186: fink_MODEL_v44:Character1_LeafRightForeArmRoll
+    400188: fink_MODEL_v44:finkCTRL_cornerL
+    400190: fink_MODEL_v44:finkCTRL_cornerL 1
+    400192: fink_MODEL_v44:finkCTRL_cornerR
+    400194: fink_MODEL_v44:finkCTRL_cornerR 1
+    400196: fink_MODEL_v44:finkCTRL_eyebrowL
+    400198: fink_MODEL_v44:finkCTRL_eyebrowL 1
+    400200: fink_MODEL_v44:finkCTRL_eyebrowR
+    400202: fink_MODEL_v44:finkCTRL_eyebrowR 1
+    400204: fink_MODEL_v44:finkCTRL_eyeL
+    400206: fink_MODEL_v44:finkCTRL_eyeLids
+    400208: fink_MODEL_v44:finkCTRL_eyeR
+    400210: fink_MODEL_v44:finkCTRL_Head
+    400212: fink_MODEL_v44:finkCTRL_Hips
+    400214: fink_MODEL_v44:finkCTRL_jaw
+    400216: fink_MODEL_v44:finkCTRL_jawEnd
+    400218: fink_MODEL_v44:finkCTRL_LeftArm
+    400220: fink_MODEL_v44:finkCTRL_LeftFoot
+    400222: fink_MODEL_v44:finkCTRL_LeftForeArm
+    400224: fink_MODEL_v44:finkCTRL_LeftHand
+    400226: fink_MODEL_v44:finkCTRL_LeftHandIndex1
+    400228: fink_MODEL_v44:finkCTRL_LeftHandIndex2
+    400230: fink_MODEL_v44:finkCTRL_LeftHandIndex3
+    400232: fink_MODEL_v44:finkCTRL_LeftHandIndex4
+    400234: fink_MODEL_v44:finkCTRL_LeftHandMiddle1
+    400236: fink_MODEL_v44:finkCTRL_LeftHandMiddle2
+    400238: fink_MODEL_v44:finkCTRL_LeftHandMiddle3
+    400240: fink_MODEL_v44:finkCTRL_LeftHandMiddle4
+    400242: fink_MODEL_v44:finkCTRL_LeftHandPinky1
+    400244: fink_MODEL_v44:finkCTRL_LeftHandPinky2
+    400246: fink_MODEL_v44:finkCTRL_LeftHandPinky3
+    400248: fink_MODEL_v44:finkCTRL_LeftHandPinky4
+    400250: fink_MODEL_v44:finkCTRL_LeftHandRing1
+    400252: fink_MODEL_v44:finkCTRL_LeftHandRing2
+    400254: fink_MODEL_v44:finkCTRL_LeftHandRing3
+    400256: fink_MODEL_v44:finkCTRL_LeftHandRing4
+    400258: fink_MODEL_v44:finkCTRL_LeftHandThumb1
+    400260: fink_MODEL_v44:finkCTRL_LeftHandThumb2
+    400262: fink_MODEL_v44:finkCTRL_LeftHandThumb3
+    400264: fink_MODEL_v44:finkCTRL_LeftHandThumb4
+    400266: fink_MODEL_v44:finkCTRL_LeftLeg
+    400268: fink_MODEL_v44:finkCTRL_LeftShoulder
+    400270: fink_MODEL_v44:finkCTRL_LeftToeBase
+    400272: fink_MODEL_v44:finkCTRL_LeftUpLeg
+    400274: fink_MODEL_v44:finkCTRL_lowerL
+    400276: fink_MODEL_v44:finkCTRL_lowerL 1
+    400278: fink_MODEL_v44:finkCTRL_lowerMid
+    400280: fink_MODEL_v44:finkCTRL_lowerMid 1
+    400282: fink_MODEL_v44:finkCTRL_lowerR
+    400284: fink_MODEL_v44:finkCTRL_lowerR 1
+    400286: fink_MODEL_v44:finkCTRL_Neck
+    400288: fink_MODEL_v44:finkCTRL_Reference
+    400290: fink_MODEL_v44:finkCTRL_RightArm
+    400292: fink_MODEL_v44:finkCTRL_RightFoot
+    400294: fink_MODEL_v44:finkCTRL_RightForeArm
+    400296: fink_MODEL_v44:finkCTRL_RightHand
+    400298: fink_MODEL_v44:finkCTRL_RightHandIndex1
+    400300: fink_MODEL_v44:finkCTRL_RightHandIndex2
+    400302: fink_MODEL_v44:finkCTRL_RightHandIndex3
+    400304: fink_MODEL_v44:finkCTRL_RightHandIndex4
+    400306: fink_MODEL_v44:finkCTRL_RightHandMiddle1
+    400308: fink_MODEL_v44:finkCTRL_RightHandMiddle2
+    400310: fink_MODEL_v44:finkCTRL_RightHandMiddle3
+    400312: fink_MODEL_v44:finkCTRL_RightHandMiddle4
+    400314: fink_MODEL_v44:finkCTRL_RightHandPinky1
+    400316: fink_MODEL_v44:finkCTRL_RightHandPinky2
+    400318: fink_MODEL_v44:finkCTRL_RightHandPinky3
+    400320: fink_MODEL_v44:finkCTRL_RightHandPinky4
+    400322: fink_MODEL_v44:finkCTRL_RightHandRing1
+    400324: fink_MODEL_v44:finkCTRL_RightHandRing2
+    400326: fink_MODEL_v44:finkCTRL_RightHandRing3
+    400328: fink_MODEL_v44:finkCTRL_RightHandRing4
+    400330: fink_MODEL_v44:finkCTRL_RightHandThumb1
+    400332: fink_MODEL_v44:finkCTRL_RightHandThumb2
+    400334: fink_MODEL_v44:finkCTRL_RightHandThumb3
+    400336: fink_MODEL_v44:finkCTRL_RightHandThumb4
+    400338: fink_MODEL_v44:finkCTRL_RightLeg
+    400340: fink_MODEL_v44:finkCTRL_RightShoulder
+    400342: fink_MODEL_v44:finkCTRL_RightToeBase
+    400344: fink_MODEL_v44:finkCTRL_RightUpLeg
+    400346: fink_MODEL_v44:finkCTRL_Spine
+    400348: fink_MODEL_v44:finkCTRL_Spine1
+    400350: fink_MODEL_v44:finkCTRL_Spine2
+    400352: fink_MODEL_v44:finkCTRL_upperL
+    400354: fink_MODEL_v44:finkCTRL_upperL 1
+    400356: fink_MODEL_v44:finkCTRL_upperMid
+    400358: fink_MODEL_v44:finkCTRL_upperMid 1
+    400360: fink_MODEL_v44:finkCTRL_upperR
+    400362: fink_MODEL_v44:finkCTRL_upperR 1
     2300000: pPlane1
     3300000: pPlane1
     4300000: pPlane1
     7400000: LP_010_MODEL_baked_v02
+    7400002: Take 001
     9500000: //RootNode
     11100000: //RootNode
   externalObjects:
@@ -243,6 +424,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
