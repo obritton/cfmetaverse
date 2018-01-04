@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: c552f01395b59fa4e89ec9502c65759a
+timeCreated: 1514511902
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cornerL
+    100002: cornerL 1
+    100004: cornerR
+    100006: cornerR 1
+    100008: eyebrowL
+    100010: eyebrowL 1
+    100012: eyebrowR
+    100014: eyebrowR 1
+    100016: eyeL
+    100018: eyeLids
+    100020: eyeR
+    100022: girlCtrl_Head
+    100024: girlCtrl_Hips
+    100026: girlCtrl_LeafLeftForeArmRoll1
+    100028: girlCtrl_LeafLeftLegRoll1
+    100030: girlCtrl_LeafRightForeArmRoll1
+    100032: girlCtrl_LeafRightLegRoll1
+    100034: girlCtrl_LeftArm
+    100036: girlCtrl_LeftFoot
+    100038: girlCtrl_LeftForeArm
+    100040: girlCtrl_LeftHand
+    100042: girlCtrl_LeftHandIndex1
+    100044: girlCtrl_LeftHandIndex2
+    100046: girlCtrl_LeftHandIndex3
+    100048: girlCtrl_LeftHandIndex4
+    100050: girlCtrl_LeftHandMiddle1
+    100052: girlCtrl_LeftHandMiddle2
+    100054: girlCtrl_LeftHandMiddle3
+    100056: girlCtrl_LeftHandMiddle4
+    100058: girlCtrl_LeftHandPinky1
+    100060: girlCtrl_LeftHandPinky2
+    100062: girlCtrl_LeftHandPinky3
+    100064: girlCtrl_LeftHandPinky4
+    100066: girlCtrl_LeftHandRing1
+    100068: girlCtrl_LeftHandRing2
+    100070: girlCtrl_LeftHandRing3
+    100072: girlCtrl_LeftHandRing4
+    100074: girlCtrl_LeftHandThumb1
+    100076: girlCtrl_LeftHandThumb2
+    100078: girlCtrl_LeftHandThumb3
+    100080: girlCtrl_LeftHandThumb4
+    100082: girlCtrl_LeftLeg
+    100084: girlCtrl_LeftShoulder
+    100086: girlCtrl_LeftToeBase
+    100088: girlCtrl_LeftUpLeg
+    100090: girlCtrl_Neck
+    100092: girlCtrl_Reference
+    100094: girlCtrl_RightArm
+    100096: girlCtrl_RightFoot
+    100098: girlCtrl_RightForeArm
+    100100: girlCtrl_RightHand
+    100102: girlCtrl_RightHandIndex1
+    100104: girlCtrl_RightHandIndex2
+    100106: girlCtrl_RightHandIndex3
+    100108: girlCtrl_RightHandIndex4
+    100110: girlCtrl_RightHandMiddle1
+    100112: girlCtrl_RightHandMiddle2
+    100114: girlCtrl_RightHandMiddle3
+    100116: girlCtrl_RightHandMiddle4
+    100118: girlCtrl_RightHandPinky1
+    100120: girlCtrl_RightHandPinky2
+    100122: girlCtrl_RightHandPinky3
+    100124: girlCtrl_RightHandPinky4
+    100126: girlCtrl_RightHandRing1
+    100128: girlCtrl_RightHandRing2
+    100130: girlCtrl_RightHandRing3
+    100132: girlCtrl_RightHandRing4
+    100134: girlCtrl_RightHandThumb1
+    100136: girlCtrl_RightHandThumb2
+    100138: girlCtrl_RightHandThumb3
+    100140: girlCtrl_RightHandThumb4
+    100142: girlCtrl_RightLeg
+    100144: girlCtrl_RightShoulder
+    100146: girlCtrl_RightToeBase
+    100148: girlCtrl_RightUpLeg
+    100150: girlCtrl_Spine
+    100152: girlCtrl_Spine1
+    100154: girlCtrl_Spine2
+    100156: jaw
+    100158: jawEnd
+    100160: lowerL
+    100162: lowerL 1
+    100164: lowerMid
+    100166: lowerMid 1
+    100168: lowerR
+    100170: lowerR 1
+    100172: pPlane2
+    100174: //RootNode
+    100176: upperL
+    100178: upperL 1
+    100180: upperMid
+    100182: upperMid 1
+    100184: upperR
+    100186: upperR 1
+    400000: cornerL
+    400002: cornerL 1
+    400004: cornerR
+    400006: cornerR 1
+    400008: eyebrowL
+    400010: eyebrowL 1
+    400012: eyebrowR
+    400014: eyebrowR 1
+    400016: eyeL
+    400018: eyeLids
+    400020: eyeR
+    400022: girlCtrl_Head
+    400024: girlCtrl_Hips
+    400026: girlCtrl_LeafLeftForeArmRoll1
+    400028: girlCtrl_LeafLeftLegRoll1
+    400030: girlCtrl_LeafRightForeArmRoll1
+    400032: girlCtrl_LeafRightLegRoll1
+    400034: girlCtrl_LeftArm
+    400036: girlCtrl_LeftFoot
+    400038: girlCtrl_LeftForeArm
+    400040: girlCtrl_LeftHand
+    400042: girlCtrl_LeftHandIndex1
+    400044: girlCtrl_LeftHandIndex2
+    400046: girlCtrl_LeftHandIndex3
+    400048: girlCtrl_LeftHandIndex4
+    400050: girlCtrl_LeftHandMiddle1
+    400052: girlCtrl_LeftHandMiddle2
+    400054: girlCtrl_LeftHandMiddle3
+    400056: girlCtrl_LeftHandMiddle4
+    400058: girlCtrl_LeftHandPinky1
+    400060: girlCtrl_LeftHandPinky2
+    400062: girlCtrl_LeftHandPinky3
+    400064: girlCtrl_LeftHandPinky4
+    400066: girlCtrl_LeftHandRing1
+    400068: girlCtrl_LeftHandRing2
+    400070: girlCtrl_LeftHandRing3
+    400072: girlCtrl_LeftHandRing4
+    400074: girlCtrl_LeftHandThumb1
+    400076: girlCtrl_LeftHandThumb2
+    400078: girlCtrl_LeftHandThumb3
+    400080: girlCtrl_LeftHandThumb4
+    400082: girlCtrl_LeftLeg
+    400084: girlCtrl_LeftShoulder
+    400086: girlCtrl_LeftToeBase
+    400088: girlCtrl_LeftUpLeg
+    400090: girlCtrl_Neck
+    400092: girlCtrl_Reference
+    400094: girlCtrl_RightArm
+    400096: girlCtrl_RightFoot
+    400098: girlCtrl_RightForeArm
+    400100: girlCtrl_RightHand
+    400102: girlCtrl_RightHandIndex1
+    400104: girlCtrl_RightHandIndex2
+    400106: girlCtrl_RightHandIndex3
+    400108: girlCtrl_RightHandIndex4
+    400110: girlCtrl_RightHandMiddle1
+    400112: girlCtrl_RightHandMiddle2
+    400114: girlCtrl_RightHandMiddle3
+    400116: girlCtrl_RightHandMiddle4
+    400118: girlCtrl_RightHandPinky1
+    400120: girlCtrl_RightHandPinky2
+    400122: girlCtrl_RightHandPinky3
+    400124: girlCtrl_RightHandPinky4
+    400126: girlCtrl_RightHandRing1
+    400128: girlCtrl_RightHandRing2
+    400130: girlCtrl_RightHandRing3
+    400132: girlCtrl_RightHandRing4
+    400134: girlCtrl_RightHandThumb1
+    400136: girlCtrl_RightHandThumb2
+    400138: girlCtrl_RightHandThumb3
+    400140: girlCtrl_RightHandThumb4
+    400142: girlCtrl_RightLeg
+    400144: girlCtrl_RightShoulder
+    400146: girlCtrl_RightToeBase
+    400148: girlCtrl_RightUpLeg
+    400150: girlCtrl_Spine
+    400152: girlCtrl_Spine1
+    400154: girlCtrl_Spine2
+    400156: jaw
+    400158: jawEnd
+    400160: lowerL
+    400162: lowerL 1
+    400164: lowerMid
+    400166: lowerMid 1
+    400168: lowerR
+    400170: lowerR 1
+    400172: pPlane2
+    400174: //RootNode
+    400176: upperL
+    400178: upperL 1
+    400180: upperMid
+    400182: upperMid 1
+    400184: upperR
+    400186: upperR 1
+    2300000: pPlane2
+    3300000: pPlane2
+    4300000: pPlane2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 618e00bf5e4b7ac42918fc31bfed7e8f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 02ba70c3d4758ba41a2aa8d75d377fd8
+timeCreated: 1514497093
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: body
+    100004: buttons
+    100006: controller
+    100008: controllerGRP
+    100010: Extrude
+    100012: joint1
+    100014: Mesh
+    100016: pCube1
+    100018: pCylinder1
+    100020: //RootNode
+    100022: screen
+    100024: tv1
+    100026: tv_and_table
+    100028: vents
+    400000: base
+    400002: body
+    400004: buttons
+    400006: controller
+    400008: controllerGRP
+    400010: Extrude
+    400012: joint1
+    400014: Mesh
+    400016: pCube1
+    400018: pCylinder1
+    400020: //RootNode
+    400022: screen
+    400024: tv1
+    400026: tv_and_table
+    400028: vents
+    2300000: base
+    2300002: body
+    2300004: buttons
+    2300006: Extrude
+    2300008: Mesh
+    2300010: pCube1
+    2300012: screen
+    2300014: vents
+    3300000: base
+    3300002: body
+    3300004: buttons
+    3300006: Extrude
+    3300008: Mesh
+    3300010: pCube1
+    3300012: screen
+    3300014: vents
+    4300000: pCube1
+    4300002: pCylinder1
+    4300004: Mesh
+    4300006: screen
+    4300008: body
+    4300010: base
+    4300012: buttons
+    4300014: vents
+    4300016: Extrude
+    7400000: LP_005_MODEL_baked_v05
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pCylinder1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body.2
+    second: {fileID: 2100000, guid: 956a5b496037a7841839465240dd0d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body1
+    second: {fileID: 2100000, guid: 9bb24a1baaa92f84b87d570eb3e0b1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button
+    second: {fileID: 2100000, guid: a132467d5d419e74ab2b54a65fd89e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: beaec15155ef0d345a422ae0742cd41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalogo
+    second: {fileID: 2100000, guid: 273bc25f9be3b794d9d4279dd0ffd83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong4
+    second: {fileID: 2100000, guid: 6fa95f888e5255f45b26df3d2eb6661c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen1
+    second: {fileID: 2100000, guid: ce915ffb22f72eb45beaa68dd9aa2ccc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

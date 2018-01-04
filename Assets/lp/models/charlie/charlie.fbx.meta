@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 0446e8700f3e0a043828997cea8a8686
+timeCreated: 1514418020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: beard
+    100002: body
+    100004: Character1_LeafLeftForeArmRoll
+    100006: Character1_LeafRightForeArmRoll
+    100008: //RootNode
+    100010: eye
+    100012: eyebrows
+    100014: eyeLids
+    100016: finkCTRL_cornerL
+    100018: finkCTRL_cornerL 1
+    100020: finkCTRL_cornerR
+    100022: finkCTRL_cornerR 1
+    100024: finkCTRL_eyebrowL
+    100026: finkCTRL_eyebrowL 1
+    100028: finkCTRL_eyebrowR
+    100030: finkCTRL_eyebrowR 1
+    100032: finkCTRL_eyeL
+    100034: finkCTRL_eyeLids
+    100036: finkCTRL_eyeR
+    100038: finkCTRL_Head
+    100040: finkCTRL_Hips
+    100042: finkCTRL_jaw
+    100044: finkCTRL_jawEnd
+    100046: finkCTRL_LeftArm
+    100048: finkCTRL_LeftFoot
+    100050: finkCTRL_LeftForeArm
+    100052: finkCTRL_LeftHand
+    100054: finkCTRL_LeftHandIndex1
+    100056: finkCTRL_LeftHandIndex2
+    100058: finkCTRL_LeftHandIndex3
+    100060: finkCTRL_LeftHandIndex4
+    100062: finkCTRL_LeftHandMiddle1
+    100064: finkCTRL_LeftHandMiddle2
+    100066: finkCTRL_LeftHandMiddle3
+    100068: finkCTRL_LeftHandMiddle4
+    100070: finkCTRL_LeftHandPinky1
+    100072: finkCTRL_LeftHandPinky2
+    100074: finkCTRL_LeftHandPinky3
+    100076: finkCTRL_LeftHandPinky4
+    100078: finkCTRL_LeftHandRing1
+    100080: finkCTRL_LeftHandRing2
+    100082: finkCTRL_LeftHandRing3
+    100084: finkCTRL_LeftHandRing4
+    100086: finkCTRL_LeftHandThumb1
+    100088: finkCTRL_LeftHandThumb2
+    100090: finkCTRL_LeftHandThumb3
+    100092: finkCTRL_LeftHandThumb4
+    100094: finkCTRL_LeftLeg
+    100096: finkCTRL_LeftShoulder
+    100098: finkCTRL_LeftToeBase
+    100100: finkCTRL_LeftUpLeg
+    100102: finkCTRL_lowerL
+    100104: finkCTRL_lowerL 1
+    100106: finkCTRL_lowerMid
+    100108: finkCTRL_lowerMid 1
+    100110: finkCTRL_lowerR
+    100112: finkCTRL_lowerR 1
+    100114: finkCTRL_Neck
+    100116: finkCTRL_Reference
+    100118: finkCTRL_RightArm
+    100120: finkCTRL_RightFoot
+    100122: finkCTRL_RightForeArm
+    100124: finkCTRL_RightHand
+    100126: finkCTRL_RightHandIndex1
+    100128: finkCTRL_RightHandIndex2
+    100130: finkCTRL_RightHandIndex3
+    100132: finkCTRL_RightHandIndex4
+    100134: finkCTRL_RightHandMiddle1
+    100136: finkCTRL_RightHandMiddle2
+    100138: finkCTRL_RightHandMiddle3
+    100140: finkCTRL_RightHandMiddle4
+    100142: finkCTRL_RightHandPinky1
+    100144: finkCTRL_RightHandPinky2
+    100146: finkCTRL_RightHandPinky3
+    100148: finkCTRL_RightHandPinky4
+    100150: finkCTRL_RightHandRing1
+    100152: finkCTRL_RightHandRing2
+    100154: finkCTRL_RightHandRing3
+    100156: finkCTRL_RightHandRing4
+    100158: finkCTRL_RightHandThumb1
+    100160: finkCTRL_RightHandThumb2
+    100162: finkCTRL_RightHandThumb3
+    100164: finkCTRL_RightHandThumb4
+    100166: finkCTRL_RightLeg
+    100168: finkCTRL_RightShoulder
+    100170: finkCTRL_RightToeBase
+    100172: finkCTRL_RightUpLeg
+    100174: finkCTRL_Spine
+    100176: finkCTRL_Spine1
+    100178: finkCTRL_Spine2
+    100180: finkCTRL_upperL
+    100182: finkCTRL_upperL 1
+    100184: finkCTRL_upperMid
+    100186: finkCTRL_upperMid 1
+    100188: finkCTRL_upperR
+    100190: finkCTRL_upperR 1
+    100192: finkGeo
+    100194: glasses
+    100196: head
+    100198: teeth
+    400000: beard
+    400002: body
+    400004: Character1_LeafLeftForeArmRoll
+    400006: Character1_LeafRightForeArmRoll
+    400008: //RootNode
+    400010: eye
+    400012: eyebrows
+    400014: eyeLids
+    400016: finkCTRL_cornerL
+    400018: finkCTRL_cornerL 1
+    400020: finkCTRL_cornerR
+    400022: finkCTRL_cornerR 1
+    400024: finkCTRL_eyebrowL
+    400026: finkCTRL_eyebrowL 1
+    400028: finkCTRL_eyebrowR
+    400030: finkCTRL_eyebrowR 1
+    400032: finkCTRL_eyeL
+    400034: finkCTRL_eyeLids
+    400036: finkCTRL_eyeR
+    400038: finkCTRL_Head
+    400040: finkCTRL_Hips
+    400042: finkCTRL_jaw
+    400044: finkCTRL_jawEnd
+    400046: finkCTRL_LeftArm
+    400048: finkCTRL_LeftFoot
+    400050: finkCTRL_LeftForeArm
+    400052: finkCTRL_LeftHand
+    400054: finkCTRL_LeftHandIndex1
+    400056: finkCTRL_LeftHandIndex2
+    400058: finkCTRL_LeftHandIndex3
+    400060: finkCTRL_LeftHandIndex4
+    400062: finkCTRL_LeftHandMiddle1
+    400064: finkCTRL_LeftHandMiddle2
+    400066: finkCTRL_LeftHandMiddle3
+    400068: finkCTRL_LeftHandMiddle4
+    400070: finkCTRL_LeftHandPinky1
+    400072: finkCTRL_LeftHandPinky2
+    400074: finkCTRL_LeftHandPinky3
+    400076: finkCTRL_LeftHandPinky4
+    400078: finkCTRL_LeftHandRing1
+    400080: finkCTRL_LeftHandRing2
+    400082: finkCTRL_LeftHandRing3
+    400084: finkCTRL_LeftHandRing4
+    400086: finkCTRL_LeftHandThumb1
+    400088: finkCTRL_LeftHandThumb2
+    400090: finkCTRL_LeftHandThumb3
+    400092: finkCTRL_LeftHandThumb4
+    400094: finkCTRL_LeftLeg
+    400096: finkCTRL_LeftShoulder
+    400098: finkCTRL_LeftToeBase
+    400100: finkCTRL_LeftUpLeg
+    400102: finkCTRL_lowerL
+    400104: finkCTRL_lowerL 1
+    400106: finkCTRL_lowerMid
+    400108: finkCTRL_lowerMid 1
+    400110: finkCTRL_lowerR
+    400112: finkCTRL_lowerR 1
+    400114: finkCTRL_Neck
+    400116: finkCTRL_Reference
+    400118: finkCTRL_RightArm
+    400120: finkCTRL_RightFoot
+    400122: finkCTRL_RightForeArm
+    400124: finkCTRL_RightHand
+    400126: finkCTRL_RightHandIndex1
+    400128: finkCTRL_RightHandIndex2
+    400130: finkCTRL_RightHandIndex3
+    400132: finkCTRL_RightHandIndex4
+    400134: finkCTRL_RightHandMiddle1
+    400136: finkCTRL_RightHandMiddle2
+    400138: finkCTRL_RightHandMiddle3
+    400140: finkCTRL_RightHandMiddle4
+    400142: finkCTRL_RightHandPinky1
+    400144: finkCTRL_RightHandPinky2
+    400146: finkCTRL_RightHandPinky3
+    400148: finkCTRL_RightHandPinky4
+    400150: finkCTRL_RightHandRing1
+    400152: finkCTRL_RightHandRing2
+    400154: finkCTRL_RightHandRing3
+    400156: finkCTRL_RightHandRing4
+    400158: finkCTRL_RightHandThumb1
+    400160: finkCTRL_RightHandThumb2
+    400162: finkCTRL_RightHandThumb3
+    400164: finkCTRL_RightHandThumb4
+    400166: finkCTRL_RightLeg
+    400168: finkCTRL_RightShoulder
+    400170: finkCTRL_RightToeBase
+    400172: finkCTRL_RightUpLeg
+    400174: finkCTRL_Spine
+    400176: finkCTRL_Spine1
+    400178: finkCTRL_Spine2
+    400180: finkCTRL_upperL
+    400182: finkCTRL_upperL 1
+    400184: finkCTRL_upperMid
+    400186: finkCTRL_upperMid 1
+    400188: finkCTRL_upperR
+    400190: finkCTRL_upperR 1
+    400192: finkGeo
+    400194: glasses
+    400196: head
+    400198: teeth
+    4300000: glasses
+    4300002: head
+    4300004: eyebrows
+    4300006: eye
+    4300008: teeth
+    4300010: beard
+    4300012: body
+    4300014: eyeLids
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: beard
+    13700002: body
+    13700004: eye
+    13700006: eyebrows
+    13700008: eyeLids
+    13700010: glasses
+    13700012: head
+    13700014: teeth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: finkMTL
+    second: {fileID: 2100000, guid: 94555066a80b2f849aacd83a658f1991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassMTL
+    second: {fileID: 2100000, guid: b27db3fe2b51b4c49a6d03b860e760bd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

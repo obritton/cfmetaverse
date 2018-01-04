@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 04510fb7abebfda45b171f43a4f1a50a
+timeCreated: 1514487786
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: angryHappy
+    100002: body
+    100004: browR
+    100006: browR 1
+    100008: browR 2
+    100010: browR 3
+    100012: browR 4
+    100014: browR 5
+    100016: browR 6
+    100018: browR 7
+    100020: desk
+    100022: eye
+    100024: eye 1
+    100026: eye 2
+    100028: eye 3
+    100030: guyCTRL_Hips
+    100032: guyCTRL_LeftArm
+    100034: guyCTRL_LeftForeArm
+    100036: guyCTRL_LeftHand
+    100038: guyCTRL_LeftShoulder
+    100040: guyCTRL_Reference
+    100042: guyCTRL_Spine
+    100044: guyCTRL_Spine1
+    100046: guyCTRL_Spine2
+    100048: lidLower
+    100050: lidLower 1
+    100052: lidLower 2
+    100054: lidLower 3
+    100056: lidUpper
+    100058: lidUpper 1
+    100060: lidUpper 2
+    100062: lidUpper 3
+    100064: nBrowR
+    100066: nBrowR 1
+    100068: nBrowR 2
+    100070: nBrowR 3
+    100072: neutral01
+    100074: neutral01 1
+    100076: neutral02
+    100078: neutral02 1
+    100080: neutralSurprise
+    100082: phone
+    100084: phone 1
+    100086: //RootNode
+    100088: robotGEO
+    100090: robotTable
+    100092: sBrowR
+    100094: sBrowR 1
+    100096: sBrowR 2
+    100098: sBrowR 3
+    100100: screen
+    400000: angryHappy
+    400002: body
+    400004: browR
+    400006: browR 1
+    400008: browR 2
+    400010: browR 3
+    400012: browR 4
+    400014: browR 5
+    400016: browR 6
+    400018: browR 7
+    400020: desk
+    400022: eye
+    400024: eye 1
+    400026: eye 2
+    400028: eye 3
+    400030: guyCTRL_Hips
+    400032: guyCTRL_LeftArm
+    400034: guyCTRL_LeftForeArm
+    400036: guyCTRL_LeftHand
+    400038: guyCTRL_LeftShoulder
+    400040: guyCTRL_Reference
+    400042: guyCTRL_Spine
+    400044: guyCTRL_Spine1
+    400046: guyCTRL_Spine2
+    400048: lidLower
+    400050: lidLower 1
+    400052: lidLower 2
+    400054: lidLower 3
+    400056: lidUpper
+    400058: lidUpper 1
+    400060: lidUpper 2
+    400062: lidUpper 3
+    400064: nBrowR
+    400066: nBrowR 1
+    400068: nBrowR 2
+    400070: nBrowR 3
+    400072: neutral01
+    400074: neutral01 1
+    400076: neutral02
+    400078: neutral02 1
+    400080: neutralSurprise
+    400082: phone
+    400084: phone 1
+    400086: //RootNode
+    400088: robotGEO
+    400090: robotTable
+    400092: sBrowR
+    400094: sBrowR 1
+    400096: sBrowR 2
+    400098: sBrowR 3
+    400100: screen
+    2300000: body
+    2300002: browR
+    2300004: browR 1
+    2300006: browR 2
+    2300008: browR 3
+    2300010: browR 4
+    2300012: browR 5
+    2300014: browR 6
+    2300016: browR 7
+    2300018: desk
+    2300020: eye
+    2300022: eye 1
+    2300024: eye 2
+    2300026: eye 3
+    2300028: lidLower
+    2300030: lidLower 1
+    2300032: lidLower 2
+    2300034: lidLower 3
+    2300036: lidUpper
+    2300038: lidUpper 1
+    2300040: lidUpper 2
+    2300042: lidUpper 3
+    2300044: phone 1
+    2300046: screen
+    3300000: body
+    3300002: browR
+    3300004: browR 1
+    3300006: browR 2
+    3300008: browR 3
+    3300010: browR 4
+    3300012: browR 5
+    3300014: browR 6
+    3300016: browR 7
+    3300018: desk
+    3300020: eye
+    3300022: eye 1
+    3300024: eye 2
+    3300026: eye 3
+    3300028: lidLower
+    3300030: lidLower 1
+    3300032: lidLower 2
+    3300034: lidLower 3
+    3300036: lidUpper
+    3300038: lidUpper 1
+    3300040: lidUpper 2
+    3300042: lidUpper 3
+    3300044: phone 1
+    3300046: screen
+    4300000: body
+    4300002: lidLower
+    4300004: lidUpper
+    4300006: browR
+    4300008: browR
+    4300010: eye
+    4300012: lidLower
+    4300014: lidUpper
+    4300016: browR
+    4300018: browR
+    4300020: eye
+    4300022: lidLower
+    4300024: lidUpper
+    4300026: browR
+    4300028: browR
+    4300030: eye
+    4300032: lidLower
+    4300034: lidUpper
+    4300036: browR
+    4300038: browR
+    4300040: eye
+    4300042: phone
+    4300044: screen
+    4300046: desk
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coat_grass_green1
+    second: {fileID: 2100000, guid: 919ac172b1eca0c47a8557bbc49d4778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coat_red1
+    second: {fileID: 2100000, guid: e10013bc36b540e4d8207af018bf7e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coat_yellow1
+    second: {fileID: 2100000, guid: 64254aef6e9fdcd438dbd2f2bd3de55d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 883cbc0bee26328448b46c9ef83e553d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 10f1429a49e93b84f8b6d2123348e847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 00338fff094f9c84f9322e0b04fd925e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phone_black_soft_MTL
+    second: {fileID: 2100000, guid: 5017d71cbeac4954cb02d9c1d6d3e3a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phone_glass_MTL
+    second: {fileID: 2100000, guid: 6c865e188ae7efc4983bc51120e4441d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phone_silver_MTL
+    second: {fileID: 2100000, guid: 42c6205e46c67834d838926242059966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phone_silver_soft_MTL
+    second: {fileID: 2100000, guid: fada0a92de27c0048925d23f6ff708b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_bright1
+    second: {fileID: 2100000, guid: e5017fc741aae6845a99b99bfe9b2adf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
