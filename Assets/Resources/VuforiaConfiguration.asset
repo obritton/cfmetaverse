@@ -47,13 +47,11 @@ MonoBehaviour:
     - Zenka
     - River_Zenka_13
     - River_Zenka_11
-    - LivingPopups
     - MetaVerseGroup1
     dataSetsToActivate:
     - Zenka
     - River_Zenka_13
     - River_Zenka_11
-    - LivingPopups
     - MetaVerseGroup1
   videoBackground:
     clippingMode: 0
