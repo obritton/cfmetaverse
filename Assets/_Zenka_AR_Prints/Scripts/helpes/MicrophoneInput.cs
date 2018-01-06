@@ -12,7 +12,7 @@ namespace ZenkaARPrints{
 	    void Start() {
 
 	        GetComponent<AudioSource>().clip = Microphone.Start(null, true, 1, 44100);
-			iPhoneSpeaker.ForceToSpeaker ();
+//			iPhoneSpeaker.ForceToSpeaker ();
 	        GetComponent<AudioSource>().loop = true; // Set the AudioClip to loop
 	//        GetComponent<AudioSource>().mute = false; // Mute the sound, we don't want the player to hear it
 	//        while (!(Microphone.GetPosition(AudioInputDevice) > 0)){} // Wait until the recording has started
