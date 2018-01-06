@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_Scenes/MainScreen.unity
+    guid: 68808674226ee4fdc93aca40a6bba173
+  - enabled: 1
     path: Assets/_Scenes/GeneralMetaverseARScene.unity
     guid: acddb77a9147a4559bcc5bb8a0820992

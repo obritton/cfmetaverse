@@ -309,6 +309,87 @@ Mesh:
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
   m_MeshOptimized: 0
+--- !u!1001 &72924740
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 204388779}
+    m_Modifications:
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 24.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 33543650503319972, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1839937104}
+    - target: {fileID: 23599291848091996, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 741780219}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mTrackableName
+      value: LP_MAKINGOF
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mDataSetPath
+      value: Vuforia/MetaVerseGroup1.xml
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mAspectRatio
+      value: 0.996805
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134757515440686, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_Name
+      value: makingof
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mHeight
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &72924741 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
+    type: 2}
+  m_PrefabInternal: {fileID: 72924740}
 --- !u!4 &104933175 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
@@ -457,6 +538,7 @@ Transform:
   - {fileID: 1837821561}
   - {fileID: 1906331556}
   - {fileID: 285571143}
+  - {fileID: 72924741}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -859,7 +941,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 2efc02dcae4a487eb679115852d9a4f2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7b5a4985205b46dea64d4ea5d6d8f694, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1475,7 +1557,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 81afc2e625fa4647a4ee116cb5ef7aae, type: 3}
+        m_Texture: {fileID: 2800000, guid: 46beaef62bef482a8eb4a57257748455, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1573,7 +1655,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: newpageunknown2Material
+  m_Name: LP_MAKINGOFMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1586,7 +1668,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c371379f66b545f794aa3466b2b3df92, type: 3}
+        m_Texture: {fileID: 2800000, guid: 46de47619fd44c928c506d7199979dfc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -3164,7 +3246,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0, z: 0.5}
+      m_Extent: {x: 0.5, y: 0, z: 0.4984025}
   m_Shapes:
     vertices: []
     shapes: []
@@ -3217,7 +3299,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 000000bf00000000000000bf000000000000803f000000000000000000000000000000bf000000000000003f000000000000803f00000000000000000000803f0000003f00000000000000bf000000000000803f000000000000803f000000000000003f000000000000003f000000000000803f000000000000803f0000803f
+    _typelessdata: 000000bf000000009d2effbe00000000ffff7f3f000000000000000000000000000000bf000000009d2eff3e00000000ffff7f3f00000000000000000000803f0000003f000000009d2effbe00000000ffff7f3f000000000000803f000000000000003f000000009d2eff3e00000000ffff7f3f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -3296,7 +3378,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 0111fd7aac304d7e984cbe8b9947c1ec, type: 3}
+        m_Texture: {fileID: 2800000, guid: f4aa70d205454674847d7f06a087965a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -3563,7 +3645,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP02_targetMaterial
+  m_Name: LP15_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -3576,7 +3658,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: a251fbba22694661afcc4fd29029e5e2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9f44a64fe9bd4517bb2a5175b72d01be, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
