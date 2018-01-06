@@ -8,6 +8,6 @@ public class FlowerGrower : MonoBehaviour {
 	void Start () {
 		Vector3 scale = transform.localScale;
 		transform.localScale = Vector3.one * .00001f;
-		iTween.ScaleTo (gameObject, scale, 13);
+		iTween.ScaleTo (gameObject, scale, 20);
 	}
 }
