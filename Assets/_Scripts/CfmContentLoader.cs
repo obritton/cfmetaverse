@@ -22,7 +22,7 @@ public class CfmContentLoader : MonoBehaviour
 				TextAsset youtubeAsset = (TextAsset)Resources.Load ("StructuredContent/" + productName + "/youtube", typeof(TextAsset));
 				if (youtubeAsset != null) {
 					print (productName + " youtube found!");
-					string urlStr = linkAsset.text;
+					string urlStr = youtubeAsset.text;
 					Application.OpenURL (urlStr);
 				} else {
 					
