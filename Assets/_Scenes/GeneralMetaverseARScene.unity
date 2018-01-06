@@ -455,6 +455,8 @@ Transform:
   - {fileID: 511615858}
   - {fileID: 1876382794}
   - {fileID: 1837821561}
+  - {fileID: 1906331556}
+  - {fileID: 285571143}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -752,6 +754,87 @@ Transform:
   m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
     type: 2}
   m_PrefabInternal: {fileID: 262446608}
+--- !u!1001 &285571142
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 204388779}
+    m_Modifications:
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 13.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -34.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 33543650503319972, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1839937104}
+    - target: {fileID: 23599291848091996, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 741780219}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mTrackableName
+      value: Boxes_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mDataSetPath
+      value: Vuforia/MetaVerseGroup1.xml
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mAspectRatio
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134757515440686, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_Name
+      value: boxes
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mHeight
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &285571143 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
+    type: 2}
+  m_PrefabInternal: {fileID: 285571142}
 --- !u!4 &355622672 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
@@ -776,7 +859,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: cb3195bbe596445ea06fed55651ef440, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2dfe88b534aa44e180b7c7b0bb926b0d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1392,7 +1475,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b8eb018daae84b76972dd7cf2c6e9084, type: 3}
+        m_Texture: {fileID: 2800000, guid: 81afc2e625fa4647a4ee116cb5ef7aae, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1490,7 +1573,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Extra1Material
+  m_Name: Boxes_scaledMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1503,7 +1586,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: cd84d4daf792474fa6233f66cf85a771, type: 3}
+        m_Texture: {fileID: 2800000, guid: f3528cbee8cd4f61bef5dd87fedb09f8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -2443,7 +2526,7 @@ Prefab:
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
       propertyPath: mTrackableName
-      value: LPIN_target
+      value: LPHOWTO
       objectReference: {fileID: 0}
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
@@ -2676,7 +2759,7 @@ Prefab:
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
       propertyPath: mTrackableName
-      value: LP01_target
+      value: CoverTitle
       objectReference: {fileID: 0}
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
@@ -3200,7 +3283,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP01_targetMaterial
+  m_Name: CoverTitleMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -3213,7 +3296,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 497c52ae4a5d45ffbedaf008024afbd9, type: 3}
+        m_Texture: {fileID: 2800000, guid: a2320bda1149428480dd09460a570ee3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -3381,13 +3464,106 @@ Transform:
   m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
     type: 2}
   m_PrefabInternal: {fileID: 459518939}
+--- !u!1001 &1906331555
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 204388779}
+    m_Modifications:
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -34.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 33543650503319972, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1839937104}
+    - target: {fileID: 23599291848091996, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 741780219}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mTrackableName
+      value: lillies_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mDataSetPath
+      value: Vuforia/MetaVerseGroup1.xml
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mAspectRatio
+      value: 1.22549
+      objectReference: {fileID: 0}
+    - target: {fileID: 1134757515440686, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_Name
+      value: lillies
+      objectReference: {fileID: 0}
+    - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
+        type: 2}
+      propertyPath: mHeight
+      value: 1.22549
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1.22549
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.22549
+      objectReference: {fileID: 0}
+    - target: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1.22549
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &1906331556 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4761263152797562, guid: 3c1b824d40fa44696903552fb18403fb,
+    type: 2}
+  m_PrefabInternal: {fileID: 1906331555}
 --- !u!21 &1935001508
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LPIN_targetMaterial
+  m_Name: LPHOWTOMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -3400,7 +3576,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 16fc97a49a2f4a9eb13cc3a6c6d32bc6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0afb493acb0042f288e06b154333bd18, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
