@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="LP_MAKINGOF" size="1.000000 0.996805" />
     <ImageTarget name="Allumette" size="1.000000 1.233333" />
     <ImageTarget name="lillies_scaled" size="1.000000 1.225490" />
     <ImageTarget name="Boxes_scaled" size="1.000000 1.000000" />
