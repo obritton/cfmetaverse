@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: e5e3dba511e52f64790bdb62cc50bfac
+timeCreated: 1468360969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip01 HeadNub
+    100002: Bip01 L Finger0Nub
+    100004: Bip01 L Finger1Nub
+    100006: Bip01 L Finger2Nub
+    100008: Bip01 L Finger3Nub
+    100010: Bip01 L Finger4Nub
+    100012: Bip01 L Toe0Nub
+    100014: Bip01 R Finger0Nub
+    100016: Bip01 R Finger1Nub
+    100018: Bip01 R Finger2Nub
+    100020: Bip01 R Finger3Nub
+    100022: Bip01 R Finger4Nub
+    100024: Bip01 R Toe0Nub
+    100026: BMan0004-HD2-Bip
+    100028: BMan0004-HD2-Hair
+    100030: BMan0004-HD2-Hands
+    100032: BMan0004-HD2-Head
+    100034: BMan0004-HD2-Head 1
+    100036: BMan0004-HD2-Jacket
+    100038: BMan0004-HD2-L Calf
+    100040: BMan0004-HD2-L Clavicle
+    100042: BMan0004-HD2-L Finger0
+    100044: BMan0004-HD2-L Finger01
+    100046: BMan0004-HD2-L Finger02
+    100048: BMan0004-HD2-L Finger1
+    100050: BMan0004-HD2-L Finger11
+    100052: BMan0004-HD2-L Finger12
+    100054: BMan0004-HD2-L Finger2
+    100056: BMan0004-HD2-L Finger21
+    100058: BMan0004-HD2-L Finger22
+    100060: BMan0004-HD2-L Finger3
+    100062: BMan0004-HD2-L Finger31
+    100064: BMan0004-HD2-L Finger32
+    100066: BMan0004-HD2-L Finger4
+    100068: BMan0004-HD2-L Finger41
+    100070: BMan0004-HD2-L Finger42
+    100072: BMan0004-HD2-L Foot
+    100074: BMan0004-HD2-L Forearm
+    100076: BMan0004-HD2-L ForeTwist
+    100078: BMan0004-HD2-L ForeTwist1
+    100080: BMan0004-HD2-L Hand
+    100082: BMan0004-HD2-L Thigh
+    100084: BMan0004-HD2-L Toe0
+    100086: BMan0004-HD2-L Toe01
+    100088: BMan0004-HD2-L UpperArm
+    100090: BMan0004-HD2-LCalfTwist
+    100092: BMan0004-HD2-LCalfTwist1
+    100094: BMan0004-HD2-LThighTwist
+    100096: BMan0004-HD2-LThighTwist1
+    100098: BMan0004-HD2-LUpArmTwist
+    100100: BMan0004-HD2-LUpArmTwist1
+    100102: BMan0004-HD2-Neck
+    100104: BMan0004-HD2-Neck1
+    100106: BMan0004-HD2-Pelvis
+    100108: BMan0004-HD2-R Calf
+    100110: BMan0004-HD2-R Clavicle
+    100112: BMan0004-HD2-R Finger0
+    100114: BMan0004-HD2-R Finger01
+    100116: BMan0004-HD2-R Finger02
+    100118: BMan0004-HD2-R Finger1
+    100120: BMan0004-HD2-R Finger11
+    100122: BMan0004-HD2-R Finger12
+    100124: BMan0004-HD2-R Finger2
+    100126: BMan0004-HD2-R Finger21
+    100128: BMan0004-HD2-R Finger22
+    100130: BMan0004-HD2-R Finger3
+    100132: BMan0004-HD2-R Finger31
+    100134: BMan0004-HD2-R Finger32
+    100136: BMan0004-HD2-R Finger4
+    100138: BMan0004-HD2-R Finger41
+    100140: BMan0004-HD2-R Finger42
+    100142: BMan0004-HD2-R Foot
+    100144: BMan0004-HD2-R Forearm
+    100146: BMan0004-HD2-R ForeTwist
+    100148: BMan0004-HD2-R ForeTwist1
+    100150: BMan0004-HD2-R Hand
+    100152: BMan0004-HD2-R Thigh
+    100154: BMan0004-HD2-R Toe0
+    100156: BMan0004-HD2-R Toe01
+    100158: BMan0004-HD2-R UpperArm
+    100160: BMan0004-HD2-RCalfTwist
+    100162: BMan0004-HD2-RCalfTwist1
+    100164: BMan0004-HD2-RThighTwist
+    100166: BMan0004-HD2-RThighTwist1
+    100168: BMan0004-HD2-RUpArmTwist
+    100170: BMan0004-HD2-RUpArmTwist1
+    100172: BMan0004-HD2-Shirt
+    100174: BMan0004-HD2-Shoe_Left
+    100176: BMan0004-HD2-Shoe_Right
+    100178: BMan0004-HD2-Spine
+    100180: BMan0004-HD2-Spine1
+    100182: BMan0004-HD2-Spine2
+    100184: BMan0004-HD2-Spine3
+    100186: BMan0004-HD2-Trousers
+    100188: Bone001
+    100190: Bone002
+    100192: Bone003
+    100194: Bone004
+    100196: Box002
+    100198: Box003
+    100200: Circle001
+    100202: //RootNode
+    100204: Group1
+    100206: Object001
+    100208: Object002
+    100210: Object003
+    100212: Rectangle001
+    100214: Sphere001
+    100216: Sphere002
+    400000: Bip01 HeadNub
+    400002: Bip01 L Finger0Nub
+    400004: Bip01 L Finger1Nub
+    400006: Bip01 L Finger2Nub
+    400008: Bip01 L Finger3Nub
+    400010: Bip01 L Finger4Nub
+    400012: Bip01 L Toe0Nub
+    400014: Bip01 R Finger0Nub
+    400016: Bip01 R Finger1Nub
+    400018: Bip01 R Finger2Nub
+    400020: Bip01 R Finger3Nub
+    400022: Bip01 R Finger4Nub
+    400024: Bip01 R Toe0Nub
+    400026: BMan0004-HD2-Bip
+    400028: BMan0004-HD2-Hair
+    400030: BMan0004-HD2-Hands
+    400032: BMan0004-HD2-Head
+    400034: BMan0004-HD2-Head 1
+    400036: BMan0004-HD2-Jacket
+    400038: BMan0004-HD2-L Calf
+    400040: BMan0004-HD2-L Clavicle
+    400042: BMan0004-HD2-L Finger0
+    400044: BMan0004-HD2-L Finger01
+    400046: BMan0004-HD2-L Finger02
+    400048: BMan0004-HD2-L Finger1
+    400050: BMan0004-HD2-L Finger11
+    400052: BMan0004-HD2-L Finger12
+    400054: BMan0004-HD2-L Finger2
+    400056: BMan0004-HD2-L Finger21
+    400058: BMan0004-HD2-L Finger22
+    400060: BMan0004-HD2-L Finger3
+    400062: BMan0004-HD2-L Finger31
+    400064: BMan0004-HD2-L Finger32
+    400066: BMan0004-HD2-L Finger4
+    400068: BMan0004-HD2-L Finger41
+    400070: BMan0004-HD2-L Finger42
+    400072: BMan0004-HD2-L Foot
+    400074: BMan0004-HD2-L Forearm
+    400076: BMan0004-HD2-L ForeTwist
+    400078: BMan0004-HD2-L ForeTwist1
+    400080: BMan0004-HD2-L Hand
+    400082: BMan0004-HD2-L Thigh
+    400084: BMan0004-HD2-L Toe0
+    400086: BMan0004-HD2-L Toe01
+    400088: BMan0004-HD2-L UpperArm
+    400090: BMan0004-HD2-LCalfTwist
+    400092: BMan0004-HD2-LCalfTwist1
+    400094: BMan0004-HD2-LThighTwist
+    400096: BMan0004-HD2-LThighTwist1
+    400098: BMan0004-HD2-LUpArmTwist
+    400100: BMan0004-HD2-LUpArmTwist1
+    400102: BMan0004-HD2-Neck
+    400104: BMan0004-HD2-Neck1
+    400106: BMan0004-HD2-Pelvis
+    400108: BMan0004-HD2-R Calf
+    400110: BMan0004-HD2-R Clavicle
+    400112: BMan0004-HD2-R Finger0
+    400114: BMan0004-HD2-R Finger01
+    400116: BMan0004-HD2-R Finger02
+    400118: BMan0004-HD2-R Finger1
+    400120: BMan0004-HD2-R Finger11
+    400122: BMan0004-HD2-R Finger12
+    400124: BMan0004-HD2-R Finger2
+    400126: BMan0004-HD2-R Finger21
+    400128: BMan0004-HD2-R Finger22
+    400130: BMan0004-HD2-R Finger3
+    400132: BMan0004-HD2-R Finger31
+    400134: BMan0004-HD2-R Finger32
+    400136: BMan0004-HD2-R Finger4
+    400138: BMan0004-HD2-R Finger41
+    400140: BMan0004-HD2-R Finger42
+    400142: BMan0004-HD2-R Foot
+    400144: BMan0004-HD2-R Forearm
+    400146: BMan0004-HD2-R ForeTwist
+    400148: BMan0004-HD2-R ForeTwist1
+    400150: BMan0004-HD2-R Hand
+    400152: BMan0004-HD2-R Thigh
+    400154: BMan0004-HD2-R Toe0
+    400156: BMan0004-HD2-R Toe01
+    400158: BMan0004-HD2-R UpperArm
+    400160: BMan0004-HD2-RCalfTwist
+    400162: BMan0004-HD2-RCalfTwist1
+    400164: BMan0004-HD2-RThighTwist
+    400166: BMan0004-HD2-RThighTwist1
+    400168: BMan0004-HD2-RUpArmTwist
+    400170: BMan0004-HD2-RUpArmTwist1
+    400172: BMan0004-HD2-Shirt
+    400174: BMan0004-HD2-Shoe_Left
+    400176: BMan0004-HD2-Shoe_Right
+    400178: BMan0004-HD2-Spine
+    400180: BMan0004-HD2-Spine1
+    400182: BMan0004-HD2-Spine2
+    400184: BMan0004-HD2-Spine3
+    400186: BMan0004-HD2-Trousers
+    400188: Bone001
+    400190: Bone002
+    400192: Bone003
+    400194: Bone004
+    400196: Box002
+    400198: Box003
+    400200: Circle001
+    400202: //RootNode
+    400204: Group1
+    400206: Object001
+    400208: Object002
+    400210: Object003
+    400212: Rectangle001
+    400214: Sphere001
+    400216: Sphere002
+    2300000: BMan0004-HD2-Hair
+    2300002: Box002
+    2300004: Box003
+    2300006: Circle001
+    2300008: Group1
+    2300010: Object001
+    2300012: Object002
+    2300014: Object003
+    2300016: Rectangle001
+    2300018: Sphere001
+    2300020: Sphere002
+    3300000: BMan0004-HD2-Hair
+    3300002: Box002
+    3300004: Box003
+    3300006: Circle001
+    3300008: Group1
+    3300010: Object001
+    3300012: Object002
+    3300014: Object003
+    3300016: Rectangle001
+    3300018: Sphere001
+    3300020: Sphere002
+    4300000: Group1
+    4300002: BMan0004-HD2-Hair
+    4300004: Sphere002
+    4300006: Sphere001
+    4300008: Box002
+    4300010: BMan0004-HD2-Head
+    4300012: BMan0004-HD2-Shoe_Right
+    4300014: BMan0004-HD2-Shoe_Left
+    4300016: BMan0004-HD2-Hands
+    4300018: BMan0004-HD2-Shirt
+    4300020: BMan0004-HD2-Jacket
+    4300022: BMan0004-HD2-Trousers
+    4300024: Circle001
+    4300026: Box003
+    4300028: Rectangle001
+    4300030: Object001
+    4300032: Object002
+    4300034: Object003
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BMan0004-HD2-Hands
+    13700002: BMan0004-HD2-Head
+    13700004: BMan0004-HD2-Jacket
+    13700006: BMan0004-HD2-Shirt
+    13700008: BMan0004-HD2-Shoe_Left
+    13700010: BMan0004-HD2-Shoe_Right
+    13700012: BMan0004-HD2-Trousers
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
