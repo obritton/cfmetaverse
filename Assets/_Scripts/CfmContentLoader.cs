@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CfmContentLoader : MonoBehaviour
 {
-
 	public void targetFound (string productName)
 	{
 		GameObject prefab = (GameObject)Resources.Load ("StructuredContent/" + productName + "/prefab", typeof(GameObject));
@@ -26,6 +25,14 @@ public class CfmContentLoader : MonoBehaviour
 					}
 				}
 			}
+		}
+	}
+
+	public void trackingLost() {
+		int totalChildren = transform.childCount;
+		for (int i = 0; i < totalChildren; i++) {
+			GameObject childGO = transform.GetChild (i).gameObject;
+			Destroy (childGO);
 		}
 	}
 }

@@ -12,4 +12,10 @@ public class CfmTrackableEventHandler : DefaultTrackableEventHandler {
 		base.OnTrackingFound ();
 		contentLoader.targetFound(gameObject.name);
 	}
+
+	protected override void OnTrackingLost()
+	{
+		base.OnTrackingLost ();
+		contentLoader.trackingLost ();
+	}
 }
