@@ -901,7 +901,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1134757515440686, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
       propertyPath: m_Name
-      value: LP17
+      value: LPCC
       objectReference: {fileID: 0}
     - target: {fileID: 23599291848091996, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
@@ -1131,7 +1131,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LPFO_targetMaterial
+  m_Name: LP14_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1144,7 +1144,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 8aeeb6bf621a4685bb7c06317dcb8613, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7b5a4985205b46dea64d4ea5d6d8f694, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1747,7 +1747,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP11_targetMaterial
+  m_Name: LPCC_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1760,7 +1760,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 63f5a5113f854cd5b749cdec246f1ac2, type: 3}
+        m_Texture: {fileID: 2800000, guid: 46beaef62bef482a8eb4a57257748455, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1858,7 +1858,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: AllumetteMaterial
+  m_Name: LP16_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1871,7 +1871,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 889d1fc5b3c74530893febf7b3c73ad3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2bdd7dcbb9a242d0a50e40b09dd6a0c9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -2292,7 +2292,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1134757515440686, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
       propertyPath: m_Name
-      value: LPCC
+      value: LP17
       objectReference: {fileID: 0}
     - target: {fileID: 23599291848091996, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
@@ -3748,7 +3748,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.40540552, y: 0, z: 0.5}
+      m_Extent: {x: 0.3875969, y: 0, z: 0.5}
   m_Shapes:
     vertices: []
     shapes: []
@@ -3801,7 +3801,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 5091cfbe00000000000000bf000000000000803f0000000000000000000000005091cfbe000000000000003f000000000000803f00000000000000000000803f5091cf3e00000000000000bf000000000000803f000000000000803f000000005091cf3e000000000000003f000000000000803f000000000000803f0000803f
+    _typelessdata: 1a73c6be00000000000000bf000000000000803f0000000000000000000000001a73c6be000000000000003f000000000000803f00000000000000000000803f1a73c63e00000000000000bf000000000000803f000000000000803f000000001a73c63e000000000000003f000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -4240,7 +4240,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LPHOWTOMaterial
+  m_Name: LP15_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -4253,7 +4253,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d2b92cd199e140d1a7a14c5d08111f37, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9f44a64fe9bd4517bb2a5175b72d01be, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
