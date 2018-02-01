@@ -17,7 +17,7 @@ Shader "DepthMask" {
         // Render the mask after regular geometry, but before masked geometry and
         // transparent things.
        
-        Tags {"Queue" = "Geometry-10" }
+        Tags {"Queue" = "Geometry+501" }
        
         // Turn off lighting, because it's expensive and the thing is supposed to be
         // invisible anyway.
@@ -27,7 +27,7 @@ Shader "DepthMask" {
         // Draw into the depth buffer in the usual way.  This is probably the default,
         // but it doesn't hurt to be explicit.
 
-        ZTest LEqual
+        ZTest Always
         ZWrite On
 
         // Don't draw anything into the RGBA channels. This is an undocumented

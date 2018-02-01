@@ -48,7 +48,10 @@ namespace ZenkaARPrints{
 		// Update is called once per frame
 		void Update () {
 
-			emit = micro.loudness * settings.sensibility;
+			
+
+			emit = (micro.loudness * settings.sensibility);
+			// Debug.Log(emit);	
 
 			if (emit > maxParticles) {
 				emit = maxParticles;

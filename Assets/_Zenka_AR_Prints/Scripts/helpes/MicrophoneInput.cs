@@ -20,8 +20,10 @@ namespace ZenkaARPrints{
 	    }
 
 	    void Update(){
-	        loudness = GetAveragedVolume() * sensitivity;
-	        //Debug.Log("loudness " + loudness);
+			
+	        this.loudness = GetAveragedVolume() * sensitivity;
+			// Debug.Log("loudness " + loudness);
+	       
 	    }
 
 	    float GetAveragedVolume()
