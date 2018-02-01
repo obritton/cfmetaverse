@@ -376,7 +376,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000010564179816}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.179, y: 0.03, z: 0.032}
+  m_LocalPosition: {x: -0.179, y: 0.04, z: 0.032}
   m_LocalScale: {x: 0.025, y: 0.025, z: 0}
   m_Children:
   - {fileID: 4505217867554402}
@@ -1028,7 +1028,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   micro: {fileID: 0}
   singleBubble: {fileID: 198451136009445702}
-  bubbles: {fileID: 0}
+  bubbles: {fileID: 198832873825317386}
   sound: {fileID: 82000010045296914}
   maxParticles: 10
   settings: {fileID: 0}

@@ -2835,8 +2835,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1110586001}
-  m_LocalRotation: {x: -0.6862436, y: 0.0000024181793, z: -0.0000027934295, w: -0.7273718}
-  m_LocalPosition: {x: 24.997795, y: 1.4338055, z: -39.97049}
+  m_LocalRotation: {x: -0.620446, y: 0.0011789807, z: -0.0009333138, w: -0.78424776}
+  m_LocalPosition: {x: 20.001, y: 1.4084308, z: -40.333004}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -4060,7 +4060,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0, z: 0.375}
+      m_Extent: {x: 0.5, y: 0, z: 0.3857422}
   m_Shapes:
     vertices: []
     shapes: []
@@ -4113,7 +4113,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 000000bf000000000000c0be000000000000803f000000000000000000000000000000bf000000000000c03e000000000000803f00000000000000000000803f0000003f000000000000c0be000000000000803f000000000000803f000000000000003f000000000000c03e000000000000803f000000000000803f0000803f
+    _typelessdata: 000000bf000000000080c5be000000000000803f000000000000000000000000000000bf000000000080c53e000000000000803f00000000000000000000803f0000003f000000000080c5be000000000000803f000000000000803f000000000000003f000000000080c53e000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -5053,11 +5053,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1473580964005590, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4022284014390704, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3c1b824d40fa44696903552fb18403fb, type: 2}
