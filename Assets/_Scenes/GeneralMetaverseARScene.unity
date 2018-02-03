@@ -545,7 +545,7 @@ Prefab:
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
       propertyPath: mTrackableName
-      value: newpage115
+      value: newextra1
       objectReference: {fileID: 0}
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
@@ -1131,7 +1131,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP14_targetMaterial
+  m_Name: LP08_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1144,7 +1144,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7b5a4985205b46dea64d4ea5d6d8f694, type: 3}
+        m_Texture: {fileID: 2800000, guid: ad4106eb260746f4ab3af83f279e8337, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1747,7 +1747,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LPCC_targetMaterial
+  m_Name: LP11_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1760,7 +1760,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 46beaef62bef482a8eb4a57257748455, type: 3}
+        m_Texture: {fileID: 2800000, guid: 63f5a5113f854cd5b749cdec246f1ac2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -1818,7 +1818,7 @@ Prefab:
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
       propertyPath: mTrackableName
-      value: newPage174
+      value: newextra2
       objectReference: {fileID: 0}
     - target: {fileID: 114600995962755808, guid: 3c1b824d40fa44696903552fb18403fb,
         type: 2}
@@ -1858,7 +1858,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP16_targetMaterial
+  m_Name: LP10_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1871,7 +1871,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 2bdd7dcbb9a242d0a50e40b09dd6a0c9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 72c1a1b4bc10488fa2fa486ee40d6e1d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -3867,7 +3867,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP13_targetMaterial
+  m_Name: LP07_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -3880,7 +3880,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: f4aa70d205454674847d7f06a087965a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 08f401f008654a77b7b90159ac96c564, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -4240,7 +4240,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: LP15_targetMaterial
+  m_Name: LP09_targetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -4253,7 +4253,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9f44a64fe9bd4517bb2a5175b72d01be, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7dee5583c469494cb80d51e85140dadf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
