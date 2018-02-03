@@ -27,12 +27,15 @@ namespace ZenkaARPrints{
 	  void OnEnable(){
 
 
-	   settings = GameObject.Find ("Settings").GetComponent<Settings> ();
+			GameObject settingsGO = GameObject.Find ("Settings");
+			if( settingsGO != null )
+				settings = settingsGO.GetComponent<Settings> ();
 	   micro = GameObject.Find ("AUDIO").GetComponent<MicrophoneInput> ();
 
 	   thunder.SetActive (false);
 
-	   settings.gameObject.SetActive (true);
+			if (settings != null)
+				settings.gameObject.SetActive (true);
 
 	   Invoke ("PlaySound", Random.Range (minSoundTime, maxSoundTime));
 	   umbrellaMask.SetActive (true);
@@ -45,6 +48,7 @@ namespace ZenkaARPrints{
 	   if (umbrellaMask.activeSelf) {
 
 //		Debug.Log (micro.loudness);
+				if (settings != null)
 		emit = micro.loudness * settings.sensibility * 2f;
 
 		if (emit < 2) {

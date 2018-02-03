@@ -39,7 +39,9 @@ namespace ZenkaARPrints{
 
 		void OnEnable(){
 
-			settings = GameObject.Find ("Settings").GetComponent<Settings> ();
+			GameObject settingsGO = GameObject.Find("Settings");
+			if( settingsGO != null )
+			settings = settingsGO.GetComponent<Settings> ();
 			micro = GameObject.Find ("AUDIO").GetComponent<MicrophoneInput> ();
 
 		}
@@ -47,7 +49,7 @@ namespace ZenkaARPrints{
 
 		// Update is called once per frame
 		void Update () {
-
+			if( settings != null )
 			emit = micro.loudness * settings.sensibility;
 
 			if (emit > maxParticles) {
