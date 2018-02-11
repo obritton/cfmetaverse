@@ -42,7 +42,7 @@ namespace Zenka {
         /// </summary>
         public void OnTrackableStateChanged(TrackableBehaviour.Status previousStatus,TrackableBehaviour.Status newStatus) {
 
-			Debug.Log (previousStatus.ToString() + " -- " + newStatus.ToString ());
+			Debug.Log (previousStatus.ToString() + " -> " + newStatus.ToString ());
 
             if (newStatus == TrackableBehaviour.Status.DETECTED ||
                 newStatus == TrackableBehaviour.Status.TRACKED ||

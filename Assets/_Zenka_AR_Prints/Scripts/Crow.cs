@@ -8,7 +8,7 @@ public class Crow : MonoBehaviour {
     private Transform t;
 
     public float duration = 1;
-    public float velocity = 1500;
+    private float velocity = .01f;
 	public AudioSource audio;
 
 	private float timeLimit;
@@ -52,15 +52,15 @@ public class Crow : MonoBehaviour {
 		timeLimit = Time.time + duration;
 		flying = true;
 
-		float z = Random.Range(2f,40f);
+		float z = Random.Range(2f,4f);
 
-		Vector3 r = new Vector3 (-20.164f,-3.492f,z);//possibilities [index];
+		Vector3 r = new Vector3 (-2.164f,-3.492f,z);//possibilities [index];
 		float rSpeed = Random.Range(3f,5f);
 
 		LeanTweenType[] options = new LeanTweenType[]{ LeanTweenType.easeOutSine, LeanTweenType.easeInOutBack, LeanTweenType.easeInCubic} ;
 		LeanTween.rotateLocal (this.gameObject, r, rSpeed).setEase (options[Random.Range(0,options.Length)]);
-		velocity = Random.Range (200, 600);
-		float animSpeed = (velocity / 600);
+		velocity = Random.Range (.4f, 1.2f);
+		float animSpeed = (velocity / 6)*10;
 		animator.speed = animSpeed;
 
 

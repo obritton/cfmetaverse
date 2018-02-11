@@ -55,16 +55,16 @@ namespace ZenkaARPrints{
 		 emit = 0; 
 		}
 
-		foreach (ParticleSystem bubbles in bubblesArray) {
-
-		 var em = bubbles.emission;
-		 em.rate = emit;
-
-		 if (sound != null)
-		 {
-		  sound.volume = emit * 0.5f;
-		 }
-		}
+//		foreach (ParticleSystem bubbles in bubblesArray) {
+//
+//		 var em = bubbles.emission;
+//		 em.rate = emit;
+//
+//		 if (sound != null)
+//		 {
+//		  sound.volume = emit * 0.5f;
+//		 }
+//		}
 
 	   }
 
